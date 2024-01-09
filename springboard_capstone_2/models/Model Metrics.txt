@@ -1,0 +1,130 @@
+--------------------------------------------------------------------------------------------------------
+Model Metrics
+--------------------------------------------------------------------------------------------------------
+Final Model Features:
+--------------------------------------------------------------------------------------------------------
+chest_pain: Is the patient experiencing chest pain? [1, 0]
+
+oldpeak: ST depression induced by exercise relative to rest [decimal]
+
+exercise_induced_angina: Does the patient have exercise-induced angina? [1, 0]
+
+thalch: Maximum heart rate achieved [decimal]
+
+Male: Is the patient a male? [1, 0]
+
+chol: Serum cholesterol (in mg/dl) [decimal]
+
+age: Age of the patient in years [decimal]
+
+trestbps: Resting blood pressure (in mm Hg) on admission to the hospital [decimal]
+
+high_fbs: Is fasting blood sugar > 120 mg/dl? [1, 0]
+
+abnormal_restecg: Were the resting electrocardiographic results abnormal? [1, 0]
+--------------------------------------------------------------------------------------------------------
+Parameters
+--------------------------------------------------------------------------------------------------------
+Feature						Feature Importance
+chest_pain					0.216106
+oldpeak						0.145967
+exercise_induced_angina		0.141122
+thalch						0.100226
+Male						0.092571
+chol						0.091463
+age							0.090788
+trestbps					0.014614
+high_fbs					0.000476
+abnormal_restecg			0.000000
+--------------------------------------------------------------------------------------------------------
+Hyper-parameters
+--------------------------------------------------------------------------------------------------------
+AdaBoostClassifier(estimator=DecisionTreeClassifier(ccp_alpha=0.01, max_depth=4,
+												   max_features='log2',
+												   min_impurity_decrease=0.0001,
+												   min_samples_leaf=5,
+												   min_samples_split=4),
+				  learning_rate=0.01, n_estimators=300))]
+				  
+verbose: False
+
+simpleimputer: SimpleImputer()
+
+standardscaler: None
+
+adaboostclassifier: AdaBoostClassifier()
+				
+simpleimputer__add_indicator: False
+
+simpleimputer__copy: True
+
+simpleimputer__fill_value: None
+
+simpleimputer__keep_empty_features: False
+
+simpleimputer__missing_values: nan
+
+simpleimputer__strategy: median
+
+adaboostclassifier__algorithm: SAMME.R
+
+adaboostclassifier__base_estimator: deprecated
+
+adaboostclassifier__estimator__ccp_alpha: 0.01
+
+adaboostclassifier__estimator__class_weight: None
+
+adaboostclassifier__estimator__criterion: gini
+
+adaboostclassifier__estimator__max_depth: 4
+
+adaboostclassifier__estimator__max_features: log2
+
+adaboostclassifier__estimator__max_leaf_nodes: None
+
+adaboostclassifier__estimator__min_impurity_decrease: 0.0001
+
+adaboostclassifier__estimator__min_samples_leaf: 5
+
+adaboostclassifier__estimator__min_samples_split: 4
+
+adaboostclassifier__estimator__min_weight_fraction_leaf: 0.0
+
+adaboostclassifier__estimator__random_state: None
+
+adaboostclassifier__estimator__splitter: best
+
+adaboostclassifier__estimator: DecisionTreeClassifier()
+					
+adaboostclassifier__learning_rate: 0.01
+
+adaboostclassifier__n_estimators: 300
+
+adaboostclassifier__random_state: None
+--------------------------------------------------------------------------------------------------------
+Performance Metrics - Training
+--------------------------------------------------------------------------------------------------------
+				   precision 	recall    		f1-score   support
+
+           0       0.87      	0.79      		0.83       279
+           1       0.83      	0.90      		0.86       326
+
+    accuracy                           			0.85       605
+   macro avg       0.85      	0.84      		0.85       605
+weighted avg       0.85      	0.85      		0.85       605
+
+ROC AUC Score:  0.84
+--------------------------------------------------------------------------------------------------------
+Performance Metrics - Test
+--------------------------------------------------------------------------------------------------------
+				  precision    	recall  		f1-score   support
+
+           0      0.78         	0.78      		0.78       113
+           1      0.83         	0.83      		0.83       147
+
+    accuracy                           			0.81       260
+   macro avg      0.80      	0.80      		0.80       260
+weighted avg      0.81      	0.81      		0.81       260
+
+ROC AUC Score:  0.80
+--------------------------------------------------------------------------------------------------------
