@@ -26,105 +26,90 @@ abnormal_restecg: Were the resting electrocardiographic results abnormal? [1, 0]
 Parameters
 --------------------------------------------------------------------------------------------------------
 Feature						Feature Importance
-chest_pain					0.216106
-oldpeak						0.145967
-exercise_induced_angina		0.141122
-thalch						0.100226
-Male						0.092571
-chol						0.091463
-age							0.090788
-trestbps					0.014614
-high_fbs					0.000476
-abnormal_restecg			0.000000
+oldpeak                    			0.170671
+thalch                     			0.169613
+chest_pain                 			0.164096
+exercise_induced_angina    			0.108819
+Male                       			0.084756
+age                        			0.074027
+chol                       			0.058378
+trestbps                   			0.000000
+high_fbs                   			0.000000
+abnormal_restecg           			0.000000
 --------------------------------------------------------------------------------------------------------
 Hyper-parameters
 --------------------------------------------------------------------------------------------------------
-AdaBoostClassifier(estimator=DecisionTreeClassifier(ccp_alpha=0.01, max_depth=4,
-												   max_features='log2',
-												   min_impurity_decrease=0.0001,
-												   min_samples_leaf=5,
-												   min_samples_split=4),
-				  learning_rate=0.01, n_estimators=300))]
+adaboostclassifier: AdaBoostClassifier(algorithm='SAMME',
+                    estimator=DecisionTreeClassifier(ccp_alpha=0.01,
+                                                     criterion='entropy',
+                                                     max_depth=1,
+                                                     min_impurity_decrease=0.01,
+                                                     min_samples_leaf=4,
+                                                     min_samples_split=3,
+                                                     splitter='random'),
+                    learning_rate=0.75, n_estimators=500)
 				  
 verbose: False
 
 simpleimputer: SimpleImputer()
 
-standardscaler: None
+standardscaler: MinMaxScaler()
 
 adaboostclassifier: AdaBoostClassifier()
 				
-simpleimputer__add_indicator: False
-
-simpleimputer__copy: True
-
-simpleimputer__fill_value: None
-
-simpleimputer__keep_empty_features: False
-
-simpleimputer__missing_values: nan
-
-simpleimputer__strategy: median
-
-adaboostclassifier__algorithm: SAMME.R
-
-adaboostclassifier__base_estimator: deprecated
-
-adaboostclassifier__estimator__ccp_alpha: 0.01
-
-adaboostclassifier__estimator__class_weight: None
-
-adaboostclassifier__estimator__criterion: gini
-
-adaboostclassifier__estimator__max_depth: 4
-
-adaboostclassifier__estimator__max_features: log2
-
-adaboostclassifier__estimator__max_leaf_nodes: None
-
-adaboostclassifier__estimator__min_impurity_decrease: 0.0001
-
-adaboostclassifier__estimator__min_samples_leaf: 5
-
-adaboostclassifier__estimator__min_samples_split: 4
-
-adaboostclassifier__estimator__min_weight_fraction_leaf: 0.0
-
-adaboostclassifier__estimator__random_state: None
-
-adaboostclassifier__estimator__splitter: best
-
-adaboostclassifier__estimator: DecisionTreeClassifier()
-					
-adaboostclassifier__learning_rate: 0.01
-
-adaboostclassifier__n_estimators: 300
-
+simpleimputer__add_indicator: False,
+simpleimputer__copy: True,
+simpleimputer__fill_value: None,
+simpleimputer__keep_empty_features: False,
+simpleimputer__missing_values: nan,
+simpleimputer__strategy: 'median',
+standardscaler__clip: False,
+standardscaler__copy: True,
+standardscaler__feature_range: (0, 1),
+adaboostclassifier__algorithm: 'SAMME',
+adaboostclassifier__base_estimator: 'deprecated',
+adaboostclassifier__estimator__ccp_alpha: 0.01,
+adaboostclassifier__estimator__class_weight: None,
+adaboostclassifier__estimator__criterion: 'entropy',
+adaboostclassifier__estimator__max_depth: 1,
+adaboostclassifier__estimator__max_features: None,
+adaboostclassifier__estimator__max_leaf_nodes: None,
+adaboostclassifier__estimator__min_impurity_decrease: 0.01,
+adaboostclassifier__estimator__min_samples_leaf: 4,
+adaboostclassifier__estimator__min_samples_split: 3,
+adaboostclassifier__estimator__min_weight_fraction_leaf: 0.0,
+adaboostclassifier__estimator__random_state: None,
+adaboostclassifier__estimator__splitter: 'random',
+adaboostclassifier__estimator: DecisionTreeClassifier(ccp_alpha=0.01, criterion='entropy', max_depth=1,
+                        min_impurity_decrease=0.01, min_samples_leaf=4,
+                        min_samples_split=3, splitter='random'),
+adaboostclassifier__learning_rate: 0.75,
+adaboostclassifier__n_estimators: 500,
 adaboostclassifier__random_state: None
 --------------------------------------------------------------------------------------------------------
 Performance Metrics - Training
 --------------------------------------------------------------------------------------------------------
-				   precision 	recall    		f1-score   support
+		precision       recall    		f1-score   support
 
-           0       0.87      	0.79      		0.83       279
-           1       0.83      	0.90      		0.86       326
+           0       0.79      	0.81      		0.80       279
+           1       0.83      	0.82      		0.83       326
 
-    accuracy                           			0.85       605
-   macro avg       0.85      	0.84      		0.85       605
-weighted avg       0.85      	0.85      		0.85       605
+    accuracy                           			0.81       605
+   macro avg       0.81      	0.81      		0.81       605
+weighted avg       0.81      	0.81      		0.81       605
 
-ROC AUC Score:  0.84
+ROC AUC Score:  0.90
 --------------------------------------------------------------------------------------------------------
 Performance Metrics - Test
 --------------------------------------------------------------------------------------------------------
-				  precision    	recall  		f1-score   support
+		precision    	recall  		f1-score   support
 
-           0      0.78         	0.78      		0.78       113
-           1      0.83         	0.83      		0.83       147
+           0      0.79         	0.80      		0.79       113
+           1      0.84         	0.84      		0.84       147
 
-    accuracy                           			0.81       260
-   macro avg      0.80      	0.80      		0.80       260
-weighted avg      0.81      	0.81      		0.81       260
+    accuracy                           			0.82       260
+   macro avg      0.82      	0.82      		0.82       260
+weighted avg      0.82      	0.82      		0.82       260
 
-ROC AUC Score:  0.80
+ROC AUC Score:  0.86
 --------------------------------------------------------------------------------------------------------
