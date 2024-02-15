@@ -1,0 +1,331 @@
+date,weekday,home_team,home_score,away_team,away_score,attendance,overtime,remarks
+1953-10-30T00:00:00,Friday,Milwaukee Hawks,69,Minneapolis Lakers,59,,,
+1953-10-31T00:00:00,Saturday,Baltimore Bullets,68,Rochester Royals,72,,,"at New York, NY"
+1953-10-31T00:00:00,Saturday,New York Knicks,91,Minneapolis Lakers,67,,,
+1953-10-31T00:00:00,Saturday,Philadelphia Warriors,79,Syracuse Nationals,73,,,
+1953-11-01T00:00:00,Sunday,Fort Wayne Pistons,77,Milwaukee Hawks,67,,,
+1953-11-01T00:00:00,Sunday,Syracuse Nationals,85,Philadelphia Warriors,61,,,
+1953-11-01T00:00:00,Sunday,Baltimore Bullets,72,Rochester Royals,80,,,
+1953-11-01T00:00:00,Sunday,Boston Celtics,79,Minneapolis Lakers,84,,,
+1953-11-04T00:00:00,Wednesday,Milwaukee Hawks,67,New York Knicks,73,,,"at Baltimore, MD"
+1953-11-04T00:00:00,Wednesday,Baltimore Bullets,75,Minneapolis Lakers,77,,,
+1953-11-05T00:00:00,Thursday,Syracuse Nationals,65,Minneapolis Lakers,77,,,
+1953-11-05T00:00:00,Thursday,Fort Wayne Pistons,83,Boston Celtics,79,,,
+1953-11-06T00:00:00,Friday,Milwaukee Hawks,68,New York Knicks,80,,,
+1953-11-07T00:00:00,Saturday,Rochester Royals,91,Fort Wayne Pistons,76,,,
+1953-11-07T00:00:00,Saturday,Minneapolis Lakers,70,New York Knicks,62,,,
+1953-11-07T00:00:00,Saturday,Baltimore Bullets,77,Syracuse Nationals,88,,,"at Philadelphia, PA"
+1953-11-07T00:00:00,Saturday,Philadelphia Warriors,77,Boston Celtics,79,,,
+1953-11-08T00:00:00,Sunday,Fort Wayne Pistons,70,New York Knicks,75,,,
+1953-11-08T00:00:00,Sunday,Baltimore Bullets,75,Philadelphia Warriors,85,,,
+1953-11-08T00:00:00,Sunday,Syracuse Nationals,85,Rochester Royals,66,,,
+1953-11-10T00:00:00,Tuesday,Milwaukee Hawks,59,Syracuse Nationals,74,,,
+1953-11-10T00:00:00,Tuesday,Rochester Royals,64,Philadelphia Warriors,66,,,
+1953-11-10T00:00:00,Tuesday,Fort Wayne Pistons,78,Minneapolis Lakers,62,,,"at Milwaukee, WI"
+1953-11-11T00:00:00,Wednesday,Boston Celtics,72,Philadelphia Warriors,78,,,
+1953-11-12T00:00:00,Thursday,New York Knicks,81,Philadelphia Warriors,65,,,
+1953-11-12T00:00:00,Thursday,Fort Wayne Pistons,78,Syracuse Nationals,74,,,
+1953-11-13T00:00:00,Friday,Milwaukee Hawks,84,Minneapolis Lakers,92,,,
+1953-11-14T00:00:00,Saturday,Boston Celtics,77,Syracuse Nationals,66,,,
+1953-11-14T00:00:00,Saturday,Baltimore Bullets,88,New York Knicks,83,,,
+1953-11-14T00:00:00,Saturday,Rochester Royals,98,Minneapolis Lakers,91,,3OT,
+1953-11-14T00:00:00,Saturday,Philadelphia Warriors,63,Fort Wayne Pistons,58,,,
+1953-11-15T00:00:00,Sunday,Fort Wayne Pistons,68,Rochester Royals,65,,,
+1953-11-15T00:00:00,Sunday,Syracuse Nationals,69,Milwaukee Hawks,61,,,
+1953-11-15T00:00:00,Sunday,Boston Celtics,74,Minneapolis Lakers,89,,,"at New York, NY"
+1953-11-15T00:00:00,Sunday,New York Knicks,91,Baltimore Bullets,79,,,
+1953-11-17T00:00:00,Tuesday,Fort Wayne Pistons,66,Minneapolis Lakers,83,,,"at Buffalo, NY"
+1953-11-17T00:00:00,Tuesday,Boston Celtics,73,Rochester Royals,92,,,"at Buffalo, NY"
+1953-11-18T00:00:00,Wednesday,Baltimore Bullets,104,Milwaukee Hawks,74,,,
+1953-11-18T00:00:00,Wednesday,New York Knicks,88,Philadelphia Warriors,83,,,"at Baltimore, MD"
+1953-11-19T00:00:00,Thursday,Milwaukee Hawks,69,Rochester Royals,79,,,"at Syracuse, NY"
+1953-11-19T00:00:00,Thursday,Syracuse Nationals,79,Fort Wayne Pistons,76,,,
+1953-11-19T00:00:00,Thursday,Philadelphia Warriors,79,Minneapolis Lakers,107,,,
+1953-11-19T00:00:00,Thursday,Baltimore Bullets,85,New York Knicks,96,,,"at Philadelphia, PA"
+1953-11-20T00:00:00,Friday,Milwaukee Hawks,63,Rochester Royals,81,,,
+1953-11-21T00:00:00,Saturday,Baltimore Bullets,83,Philadelphia Warriors,103,,,"at Raleigh, NC"
+1953-11-21T00:00:00,Saturday,Boston Celtics,90,Fort Wayne Pistons,68,,,
+1953-11-21T00:00:00,Saturday,Minneapolis Lakers,76,Rochester Royals,70,,,
+1953-11-21T00:00:00,Saturday,New York Knicks,68,Syracuse Nationals,67,,,
+1953-11-22T00:00:00,Sunday,Milwaukee Hawks,55,Minneapolis Lakers,57,,,"at Fort Wayne, IN"
+1953-11-22T00:00:00,Sunday,Syracuse Nationals,80,New York Knicks,84,,OT,
+1953-11-22T00:00:00,Sunday,Fort Wayne Pistons,83,Rochester Royals,82,,,
+1953-11-24T00:00:00,Tuesday,Boston Celtics,92,New York Knicks,103,,,"at Philadelphia, PA"
+1953-11-24T00:00:00,Tuesday,Philadelphia Warriors,83,Baltimore Bullets,80,,,
+1953-11-24T00:00:00,Tuesday,Rochester Royals,80,Syracuse Nationals,89,,,
+1953-11-25T00:00:00,Wednesday,Milwaukee Hawks,64,Fort Wayne Pistons,58,,,
+1953-11-25T00:00:00,Wednesday,Boston Celtics,96,New York Knicks,84,,,
+1953-11-25T00:00:00,Wednesday,Baltimore Bullets,66,Syracuse Nationals,58,,,"at Boston, MA"
+1953-11-26T00:00:00,Thursday,Baltimore Bullets,75,Rochester Royals,80,,OT,
+1953-11-26T00:00:00,Thursday,Minneapolis Lakers,88,Philadelphia Warriors,80,,,
+1953-11-26T00:00:00,Thursday,Syracuse Nationals,93,Boston Celtics,86,,,
+1953-11-26T00:00:00,Thursday,Fort Wayne Pistons,78,Milwaukee Hawks,64,,,
+1953-11-27T00:00:00,Friday,Milwaukee Hawks,55,Philadelphia Warriors,51,,,"at Chicago, IL"
+1953-11-28T00:00:00,Saturday,New York Knicks,95,Rochester Royals,90,,OT,
+1953-11-28T00:00:00,Saturday,Milwaukee Hawks,71,Philadelphia Warriors,68,,,"at Iowa City, IA"
+1953-11-28T00:00:00,Saturday,Baltimore Bullets,81,Fort Wayne Pistons,92,,,
+1953-11-28T00:00:00,Saturday,Boston Celtics,91,Syracuse Nationals,80,,,"at New York, NY"
+1953-11-29T00:00:00,Sunday,Fort Wayne Pistons,83,Philadelphia Warriors,69,,,
+1953-11-29T00:00:00,Sunday,Syracuse Nationals,101,Baltimore Bullets,82,,,
+1953-11-29T00:00:00,Sunday,Rochester Royals,64,New York Knicks,69,,,
+1953-11-29T00:00:00,Sunday,Minneapolis Lakers,95,Boston Celtics,82,,,
+1953-12-01T00:00:00,Tuesday,Milwaukee Hawks,69,Syracuse Nationals,76,,OT,
+1953-12-01T00:00:00,Tuesday,Boston Celtics,89,Philadelphia Warriors,86,,OT,"at Milwaukee, WI"
+1953-12-01T00:00:00,Tuesday,Rochester Royals,92,Fort Wayne Pistons,69,,,
+1953-12-03T00:00:00,Thursday,Fort Wayne Pistons,76,Boston Celtics,70,,,
+1953-12-03T00:00:00,Thursday,Minneapolis Lakers,87,Syracuse Nationals,74,,,"at Moorhead, MN"
+1953-12-03T00:00:00,Thursday,Philadelphia Warriors,79,New York Knicks,74,,,
+1953-12-05T00:00:00,Saturday,Boston Celtics,97,Milwaukee Hawks,79,,,
+1953-12-05T00:00:00,Saturday,Minneapolis Lakers,90,Syracuse Nationals,80,,,
+1953-12-05T00:00:00,Saturday,New York Knicks,73,Fort Wayne Pistons,92,,,
+1953-12-05T00:00:00,Saturday,Rochester Royals,72,Baltimore Bullets,65,,,
+1953-12-06T00:00:00,Sunday,Baltimore Bullets,95,Boston Celtics,102,,OT,
+1953-12-06T00:00:00,Sunday,Fort Wayne Pistons,78,Syracuse Nationals,77,,,
+1953-12-08T00:00:00,Tuesday,Rochester Royals,97,Boston Celtics,79,,,
+1953-12-09T00:00:00,Wednesday,Baltimore Bullets,92,Syracuse Nationals,77,,,
+1953-12-09T00:00:00,Wednesday,Fort Wayne Pistons,83,Milwaukee Hawks,59,,,"at Philadelphia, PA"
+1953-12-09T00:00:00,Wednesday,Philadelphia Warriors,104,Boston Celtics,103,,OT,
+1953-12-10T00:00:00,Thursday,New York Knicks,108,Boston Celtics,113,,2OT,
+1953-12-10T00:00:00,Thursday,Syracuse Nationals,96,Milwaukee Hawks,76,,,
+1953-12-10T00:00:00,Thursday,Baltimore Bullets,77,Philadelphia Warriors,83,,,"at New York, NY"
+1953-12-11T00:00:00,Friday,Milwaukee Hawks,82,New York Knicks,70,,,
+1953-12-12T00:00:00,Saturday,Minneapolis Lakers,71,New York Knicks,67,,,
+1953-12-12T00:00:00,Saturday,Boston Celtics,106,Baltimore Bullets,75,,,
+1953-12-12T00:00:00,Saturday,Rochester Royals,90,Syracuse Nationals,85,,,
+1953-12-13T00:00:00,Sunday,Baltimore Bullets,70,Milwaukee Hawks,73,,,
+1953-12-13T00:00:00,Sunday,Minneapolis Lakers,70,Rochester Royals,87,,,"at Fort Wayne, IN"
+1953-12-13T00:00:00,Sunday,Fort Wayne Pistons,68,New York Knicks,69,,,
+1953-12-13T00:00:00,Sunday,Syracuse Nationals,108,Boston Celtics,74,,,
+1953-12-15T00:00:00,Tuesday,Boston Celtics,82,Fort Wayne Pistons,75,,,"at New York, NY"
+1953-12-15T00:00:00,Tuesday,New York Knicks,80,Minneapolis Lakers,79,,OT,
+1953-12-15T00:00:00,Tuesday,Rochester Royals,76,Milwaukee Hawks,64,,,
+1953-12-16T00:00:00,Wednesday,Milwaukee Hawks,63,Minneapolis Lakers,69,,OT,"at Boston, MA"
+1953-12-16T00:00:00,Wednesday,Boston Celtics,91,Fort Wayne Pistons,74,,,
+1953-12-17T00:00:00,Thursday,Baltimore Bullets,75,Minneapolis Lakers,64,,,
+1953-12-17T00:00:00,Thursday,Philadelphia Warriors,79,Rochester Royals,91,,,"at Cleveland, OH"
+1953-12-19T00:00:00,Saturday,Baltimore Bullets,63,New York Knicks,65,,,
+1953-12-19T00:00:00,Saturday,Boston Celtics,83,Syracuse Nationals,90,,,
+1953-12-19T00:00:00,Saturday,Milwaukee Hawks,63,Fort Wayne Pistons,69,,,
+1953-12-19T00:00:00,Saturday,Rochester Royals,78,Minneapolis Lakers,91,,,
+1953-12-20T00:00:00,Sunday,Boston Celtics,101,Philadelphia Warriors,89,,,"at New York, NY"
+1953-12-20T00:00:00,Sunday,New York Knicks,75,Baltimore Bullets,67,,,
+1953-12-20T00:00:00,Sunday,Syracuse Nationals,81,Minneapolis Lakers,76,,,
+1953-12-21T00:00:00,Monday,Boston Celtics,90,Milwaukee Hawks,74,,,"at Buffalo, NY"
+1953-12-23T00:00:00,Wednesday,Baltimore Bullets,72,Syracuse Nationals,76,,,
+1953-12-23T00:00:00,Wednesday,Boston Celtics,80,Milwaukee Hawks,74,,,"at Baltimore, MD"
+1953-12-25T00:00:00,Friday,Baltimore Bullets,88,Minneapolis Lakers,78,,,"at Saint Paul, MN"
+1953-12-25T00:00:00,Friday,Philadelphia Warriors,65,Rochester Royals,73,,,
+1953-12-25T00:00:00,Friday,Fort Wayne Pistons,108,Boston Celtics,79,,,
+1953-12-25T00:00:00,Friday,New York Knicks,89,Syracuse Nationals,80,,,
+1953-12-26T00:00:00,Saturday,Rochester Royals,77,New York Knicks,78,,,
+1953-12-26T00:00:00,Saturday,Milwaukee Hawks,74,Boston Celtics,67,,,
+1953-12-26T00:00:00,Saturday,Minneapolis Lakers,77,Fort Wayne Pistons,71,,,
+1953-12-27T00:00:00,Sunday,Boston Celtics,98,Rochester Royals,72,,,
+1953-12-27T00:00:00,Sunday,Syracuse Nationals,96,Milwaukee Hawks,75,,,
+1953-12-27T00:00:00,Sunday,Fort Wayne Pistons,75,Minneapolis Lakers,79,,,
+1953-12-27T00:00:00,Sunday,New York Knicks,79,Philadelphia Warriors,76,,,
+1953-12-28T00:00:00,Monday,Milwaukee Hawks,63,Philadelphia Warriors,69,,,"at Hershey, PA"
+1953-12-29T00:00:00,Tuesday,Rochester Royals,96,Baltimore Bullets,77,,,
+1953-12-30T00:00:00,Wednesday,Baltimore Bullets,86,New York Knicks,79,,,
+1953-12-30T00:00:00,Wednesday,Boston Celtics,89,Syracuse Nationals,96,,,"at Baltimore, MD"
+1953-12-30T00:00:00,Wednesday,Minneapolis Lakers,80,Fort Wayne Pistons,97,,,
+1953-12-31T00:00:00,Thursday,Syracuse Nationals,86,Rochester Royals,81,,,
+1953-12-31T00:00:00,Thursday,New York Knicks,74,Boston Celtics,95,,,
+1953-12-31T00:00:00,Thursday,Fort Wayne Pistons,83,Philadelphia Warriors,56,,,"at Indianapolis, IN"
+1954-01-01T00:00:00,Friday,Boston Celtics,95,Syracuse Nationals,92,,,
+1954-01-01T00:00:00,Friday,Rochester Royals,79,Philadelphia Warriors,76,,,
+1954-01-01T00:00:00,Friday,Milwaukee Hawks,62,Baltimore Bullets,52,,,
+1954-01-02T00:00:00,Saturday,Baltimore Bullets,77,Boston Celtics,92,,,
+1954-01-02T00:00:00,Saturday,Philadelphia Warriors,66,Syracuse Nationals,74,,,
+1954-01-02T00:00:00,Saturday,Rochester Royals,77,Fort Wayne Pistons,76,,OT,
+1954-01-02T00:00:00,Saturday,Minneapolis Lakers,78,New York Knicks,74,,,
+1954-01-03T00:00:00,Sunday,Fort Wayne Pistons,72,New York Knicks,74,,,
+1954-01-03T00:00:00,Sunday,Syracuse Nationals,77,Philadelphia Warriors,90,,,
+1954-01-03T00:00:00,Sunday,Boston Celtics,90,Baltimore Bullets,72,,,"at New Haven, CT"
+1954-01-04T00:00:00,Monday,Baltimore Bullets,73,Boston Celtics,77,,,"at Amherst, MA"
+1954-01-04T00:00:00,Monday,Minneapolis Lakers,84,Rochester Royals,85,,,"at Chicago, IL"
+1954-01-05T00:00:00,Tuesday,Fort Wayne Pistons,60,Syracuse Nationals,72,,,
+1954-01-05T00:00:00,Tuesday,Philadelphia Warriors,99,Milwaukee Hawks,88,,,
+1954-01-06T00:00:00,Wednesday,Baltimore Bullets,78,Fort Wayne Pistons,90,,,
+1954-01-06T00:00:00,Wednesday,Milwaukee Hawks,72,Philadelphia Warriors,77,,,"at Baltimore, MD"
+1954-01-07T00:00:00,Thursday,Syracuse Nationals,79,Fort Wayne Pistons,67,,,
+1954-01-07T00:00:00,Thursday,New York Knicks,82,Baltimore Bullets,70,,,
+1954-01-07T00:00:00,Thursday,Milwaukee Hawks,73,Philadelphia Warriors,88,,,"at New York, NY"
+1954-01-07T00:00:00,Thursday,Minneapolis Lakers,89,Rochester Royals,71,,,
+1954-01-09T00:00:00,Saturday,Rochester Royals,87,New York Knicks,88,,,
+1954-01-09T00:00:00,Saturday,Milwaukee Hawks,67,Minneapolis Lakers,78,,,
+1954-01-09T00:00:00,Saturday,Baltimore Bullets,95,Philadelphia Warriors,90,,,
+1954-01-10T00:00:00,Sunday,Fort Wayne Pistons,81,Milwaukee Hawks,73,,,
+1954-01-10T00:00:00,Sunday,Minneapolis Lakers,99,Boston Celtics,85,,,
+1954-01-10T00:00:00,Sunday,New York Knicks,81,Rochester Royals,69,,,
+1954-01-10T00:00:00,Sunday,Syracuse Nationals,77,Baltimore Bullets,73,,,
+1954-01-12T00:00:00,Tuesday,Rochester Royals,78,Milwaukee Hawks,73,,,
+1954-01-12T00:00:00,Tuesday,Baltimore Bullets,66,Fort Wayne Pistons,97,,,"at Coral Gables, FL"
+1954-01-13T00:00:00,Wednesday,Boston Celtics,88,Minneapolis Lakers,84,,,
+1954-01-13T00:00:00,Wednesday,New York Knicks,72,Syracuse Nationals,93,,,"at Boston, MA"
+1954-01-14T00:00:00,Thursday,Baltimore Bullets,74,Fort Wayne Pistons,81,,,"at Miami, FL"
+1954-01-14T00:00:00,Thursday,Boston Celtics,86,Milwaukee Hawks,74,,,"at Syracuse, NY"
+1954-01-14T00:00:00,Thursday,Philadelphia Warriors,71,New York Knicks,83,,,
+1954-01-14T00:00:00,Thursday,Syracuse Nationals,96,Minneapolis Lakers,71,,,
+1954-01-16T00:00:00,Saturday,New York Knicks,88,Fort Wayne Pistons,82,,OT,
+1954-01-16T00:00:00,Saturday,Baltimore Bullets,82,Philadelphia Warriors,72,,,
+1954-01-16T00:00:00,Saturday,Minneapolis Lakers,58,Milwaukee Hawks,64,,,
+1954-01-16T00:00:00,Saturday,Rochester Royals,93,Syracuse Nationals,95,,3OT,
+1954-01-17T00:00:00,Sunday,Fort Wayne Pistons,86,Minneapolis Lakers,83,,,
+1954-01-17T00:00:00,Sunday,Syracuse Nationals,84,Rochester Royals,81,,,
+1954-01-17T00:00:00,Sunday,Boston Celtics,84,New York Knicks,87,,2OT,
+1954-01-17T00:00:00,Sunday,Baltimore Bullets,78,Philadelphia Warriors,74,,,"at Boston, MA"
+1954-01-18T00:00:00,Monday,Milwaukee Hawks,72,Minneapolis Lakers,91,,,"at Kansas City, MO"
+1954-01-19T00:00:00,Tuesday,Fort Wayne Pistons,67,Rochester Royals,73,,,"at Milwaukee, WI"
+1954-01-19T00:00:00,Tuesday,Philadelphia Warriors,89,Boston Celtics,73,,,
+1954-01-19T00:00:00,Tuesday,Milwaukee Hawks,75,New York Knicks,78,,,
+1954-01-22T00:00:00,Friday,New York Knicks,84,Philadelphia Warriors,82,,,"at New Haven, CT"
+1954-01-23T00:00:00,Saturday,Rochester Royals,71,Philadelphia Warriors,61,,,
+1954-01-23T00:00:00,Saturday,New York Knicks,75,Milwaukee Hawks,63,,,
+1954-01-23T00:00:00,Saturday,Minneapolis Lakers,75,Fort Wayne Pistons,72,,,
+1954-01-23T00:00:00,Saturday,Baltimore Bullets,98,Syracuse Nationals,91,,,
+1954-01-24T00:00:00,Sunday,Syracuse Nationals,78,Philadelphia Warriors,80,,,
+1954-01-24T00:00:00,Sunday,Milwaukee Hawks,68,New York Knicks,66,,,"at Boston, MA"
+1954-01-24T00:00:00,Sunday,Fort Wayne Pistons,79,Baltimore Bullets,70,,,
+1954-01-24T00:00:00,Sunday,Boston Celtics,85,Rochester Royals,93,,,
+1954-01-26T00:00:00,Tuesday,Baltimore Bullets,69,Boston Celtics,94,,,"at Milwaukee, WI"
+1954-01-26T00:00:00,Tuesday,Philadelphia Warriors,75,Syracuse Nationals,79,,,"at Buffalo, NY"
+1954-01-26T00:00:00,Tuesday,Milwaukee Hawks,69,Minneapolis Lakers,84,,,
+1954-01-26T00:00:00,Tuesday,New York Knicks,74,Rochester Royals,71,,,"at Buffalo, NY"
+1954-01-27T00:00:00,Wednesday,Fort Wayne Pistons,77,Milwaukee Hawks,68,,,"at Minneapolis, MN"
+1954-01-27T00:00:00,Wednesday,Minneapolis Lakers,76,Baltimore Bullets,73,,,
+1954-01-28T00:00:00,Thursday,Philadelphia Warriors,79,Rochester Royals,82,,OT,
+1954-01-28T00:00:00,Thursday,Baltimore Bullets,82,Minneapolis Lakers,104,,,"at Grand Forks, ND"
+1954-01-28T00:00:00,Thursday,Fort Wayne Pistons,80,Boston Celtics,68,,,
+1954-01-28T00:00:00,Thursday,Syracuse Nationals,79,New York Knicks,66,,,
+1954-01-29T00:00:00,Friday,Milwaukee Hawks,82,Boston Celtics,70,,,
+1954-01-30T00:00:00,Saturday,New York Knicks,66,Syracuse Nationals,65,,,
+1954-01-30T00:00:00,Saturday,Minneapolis Lakers,80,Milwaukee Hawks,64,,,
+1954-01-30T00:00:00,Saturday,Baltimore Bullets,80,Philadelphia Warriors,74,,,
+1954-01-30T00:00:00,Saturday,Rochester Royals,95,Fort Wayne Pistons,70,,,
+1954-01-31T00:00:00,Sunday,Syracuse Nationals,114,New York Knicks,70,,,
+1954-01-31T00:00:00,Sunday,Minneapolis Lakers,82,Boston Celtics,67,,,
+1954-01-31T00:00:00,Sunday,Fort Wayne Pistons,83,Rochester Royals,69,,,
+1954-02-01T00:00:00,Monday,Milwaukee Hawks,71,Fort Wayne Pistons,72,,,
+1954-02-02T00:00:00,Tuesday,Rochester Royals,78,Minneapolis Lakers,87,,,
+1954-02-03T00:00:00,Wednesday,Baltimore Bullets,72,Milwaukee Hawks,78,,,
+1954-02-03T00:00:00,Wednesday,Minneapolis Lakers,91,New York Knicks,79,,,"at Boston, MA"
+1954-02-03T00:00:00,Wednesday,Philadelphia Warriors,82,Syracuse Nationals,79,,,"at Baltimore, MD"
+1954-02-03T00:00:00,Wednesday,Boston Celtics,88,Rochester Royals,81,,,
+1954-02-04T00:00:00,Thursday,Philadelphia Warriors,80,Boston Celtics,78,,,
+1954-02-04T00:00:00,Thursday,New York Knicks,82,Syracuse Nationals,90,,,"at Philadelphia, PA"
+1954-02-04T00:00:00,Thursday,Baltimore Bullets,70,Minneapolis Lakers,82,,,
+1954-02-05T00:00:00,Friday,Milwaukee Hawks,69,Philadelphia Warriors,66,,,
+1954-02-05T00:00:00,Friday,Fort Wayne Pistons,70,Rochester Royals,89,,,"at Milwaukee, WI"
+1954-02-06T00:00:00,Saturday,Rochester Royals,81,Boston Celtics,104,,,
+1954-02-06T00:00:00,Saturday,Minneapolis Lakers,97,Philadelphia Warriors,94,,,
+1954-02-06T00:00:00,Saturday,New York Knicks,98,Baltimore Bullets,83,,,
+1954-02-06T00:00:00,Saturday,Syracuse Nationals,93,Fort Wayne Pistons,87,,OT,
+1954-02-07T00:00:00,Sunday,Baltimore Bullets,75,Rochester Royals,73,,,
+1954-02-07T00:00:00,Sunday,Boston Celtics,78,New York Knicks,87,,,
+1954-02-07T00:00:00,Sunday,Syracuse Nationals,88,Milwaukee Hawks,73,,,
+1954-02-07T00:00:00,Sunday,Fort Wayne Pistons,90,Minneapolis Lakers,83,,,
+1954-02-08T00:00:00,Monday,Minneapolis Lakers,106,Philadelphia Warriors,91,,,"at Spencer, IA"
+1954-02-08T00:00:00,Monday,Baltimore Bullets,75,Boston Celtics,87,,,"at New London, CT"
+1954-02-09T00:00:00,Tuesday,Rochester Royals,81,Milwaukee Hawks,70,,,
+1954-02-09T00:00:00,Tuesday,Minneapolis Lakers,70,Philadelphia Warriors,67,,,"at Huron, SD"
+1954-02-10T00:00:00,Wednesday,Baltimore Bullets,79,Philadelphia Warriors,97,,,"at Milwaukee, WI"
+1954-02-10T00:00:00,Wednesday,Fort Wayne Pistons,69,New York Knicks,73,,,"at Boston, MA"
+1954-02-10T00:00:00,Wednesday,Milwaukee Hawks,61,Rochester Royals,62,,,
+1954-02-10T00:00:00,Wednesday,Boston Celtics,94,Syracuse Nationals,79,,,
+1954-02-11T00:00:00,Thursday,Minneapolis Lakers,110,Baltimore Bullets,82,,,
+1954-02-11T00:00:00,Thursday,Philadelphia Warriors,76,Syracuse Nationals,74,,2OT,
+1954-02-11T00:00:00,Thursday,Milwaukee Hawks,68,Rochester Royals,79,,,"at Minneapolis, MN"
+1954-02-11T00:00:00,Thursday,Boston Celtics,84,New York Knicks,81,,OT,"at Philadelphia, PA"
+1954-02-12T00:00:00,Friday,Baltimore Bullets,72,Philadelphia Warriors,75,,,"at Toledo, OH"
+1954-02-12T00:00:00,Friday,Milwaukee Hawks,71,Minneapolis Lakers,62,,,"at Toledo, OH"
+1954-02-13T00:00:00,Saturday,Baltimore Bullets,96,Boston Celtics,93,,,
+1954-02-13T00:00:00,Saturday,New York Knicks,73,Fort Wayne Pistons,79,,,
+1954-02-13T00:00:00,Saturday,Rochester Royals,81,Syracuse Nationals,78,,,
+1954-02-13T00:00:00,Saturday,Minneapolis Lakers,86,Philadelphia Warriors,77,,,"at Grand Rapids, MI"
+1954-02-14T00:00:00,Sunday,Fort Wayne Pistons,94,Philadelphia Warriors,76,,,
+1954-02-14T00:00:00,Sunday,Syracuse Nationals,111,Baltimore Bullets,91,,,
+1954-02-14T00:00:00,Sunday,Minneapolis Lakers,105,Rochester Royals,77,,,
+1954-02-14T00:00:00,Sunday,Boston Celtics,103,New York Knicks,89,,,
+1954-02-16T00:00:00,Tuesday,Milwaukee Hawks,65,Fort Wayne Pistons,69,,,
+1954-02-16T00:00:00,Tuesday,Minneapolis Lakers,85,Rochester Royals,79,,,"at Hibbing, MN"
+1954-02-16T00:00:00,Tuesday,New York Knicks,87,Boston Celtics,85,,,
+1954-02-16T00:00:00,Tuesday,Philadelphia Warriors,95,Syracuse Nationals,77,,,"at New York, NY"
+1954-02-17T00:00:00,Wednesday,Baltimore Bullets,84,New York Knicks,80,,,
+1954-02-18T00:00:00,Thursday,Minneapolis Lakers,92,Boston Celtics,105,,,
+1954-02-18T00:00:00,Thursday,Philadelphia Warriors,60,New York Knicks,69,,,
+1954-02-18T00:00:00,Thursday,Syracuse Nationals,91,Fort Wayne Pistons,77,,,
+1954-02-19T00:00:00,Friday,Milwaukee Hawks,73,Boston Celtics,78,,,
+1954-02-20T00:00:00,Saturday,Baltimore Bullets,85,Fort Wayne Pistons,87,,,
+1954-02-20T00:00:00,Saturday,Minneapolis Lakers,83,Syracuse Nationals,68,,,
+1954-02-20T00:00:00,Saturday,New York Knicks,75,Philadelphia Warriors,89,,,
+1954-02-20T00:00:00,Saturday,Rochester Royals,66,Milwaukee Hawks,64,,,
+1954-02-21T00:00:00,Sunday,Baltimore Bullets,76,New York Knicks,85,,,"at Providence, RI"
+1954-02-21T00:00:00,Sunday,Boston Celtics,95,Philadelphia Warriors,85,,,"at Providence, RI"
+1954-02-21T00:00:00,Sunday,Fort Wayne Pistons,62,Milwaukee Hawks,64,,,
+1954-02-21T00:00:00,Sunday,Syracuse Nationals,100,Minneapolis Lakers,73,,,
+1954-02-22T00:00:00,Monday,Baltimore Bullets,110,Boston Celtics,111,,3OT,"at Worcester, MA"
+1954-02-22T00:00:00,Monday,Fort Wayne Pistons,95,Milwaukee Hawks,82,,,"at Troy, OH"
+1954-02-22T00:00:00,Monday,Minneapolis Lakers,72,Philadelphia Warriors,79,,,"at New Haven, CT"
+1954-02-23T00:00:00,Tuesday,Boston Celtics,77,Rochester Royals,93,,,"at New York, NY"
+1954-02-23T00:00:00,Tuesday,Milwaukee Hawks,70,Syracuse Nationals,68,,,"at Cincinnati, OH"
+1954-02-23T00:00:00,Tuesday,New York Knicks,82,Minneapolis Lakers,100,,,
+1954-02-24T00:00:00,Wednesday,Baltimore Bullets,64,Rochester Royals,79,,,
+1954-02-25T00:00:00,Thursday,Baltimore Bullets,86,Rochester Royals,102,,,"at Philadelphia, PA"
+1954-02-25T00:00:00,Thursday,Fort Wayne Pistons,82,New York Knicks,62,,,"at Miami Beach, FL"
+1954-02-25T00:00:00,Thursday,Philadelphia Warriors,81,Minneapolis Lakers,72,,,
+1954-02-25T00:00:00,Thursday,Syracuse Nationals,96,Boston Celtics,101,,,
+1954-02-26T00:00:00,Friday,Milwaukee Hawks,62,Syracuse Nationals,68,,,
+1954-02-27T00:00:00,Saturday,New York Knicks,57,Milwaukee Hawks,58,,,
+1954-02-27T00:00:00,Saturday,Philadelphia Warriors,72,Fort Wayne Pistons,79,,,
+1954-02-27T00:00:00,Saturday,Baltimore Bullets,85,Minneapolis Lakers,95,,,
+1954-02-27T00:00:00,Saturday,Rochester Royals,74,Boston Celtics,75,,,
+1954-02-28T00:00:00,Sunday,Boston Celtics,93,Milwaukee Hawks,74,,,"at Providence, RI"
+1954-02-28T00:00:00,Sunday,Syracuse Nationals,85,Rochester Royals,91,,,
+1954-02-28T00:00:00,Sunday,New York Knicks,78,Philadelphia Warriors,83,,,"at Providence, RI"
+1954-02-28T00:00:00,Sunday,Fort Wayne Pistons,94,Minneapolis Lakers,77,,,
+1954-03-01T00:00:00,Monday,Milwaukee Hawks,73,Philadelphia Warriors,78,,,"at Collingswood, NJ"
+1954-03-02T00:00:00,Tuesday,Fort Wayne Pistons,64,Rochester Royals,71,,,"at New York, NY"
+1954-03-02T00:00:00,Tuesday,New York Knicks,86,Boston Celtics,71,,,
+1954-03-02T00:00:00,Tuesday,Minneapolis Lakers,91,Syracuse Nationals,87,,,"at Saint Paul, MN"
+1954-03-03T00:00:00,Wednesday,New York Knicks,88,Philadelphia Warriors,79,,,"at White Plains, NY"
+1954-03-03T00:00:00,Wednesday,Baltimore Bullets,100,Milwaukee Hawks,103,,,
+1954-03-04T00:00:00,Thursday,Fort Wayne Pistons,63,Syracuse Nationals,86,,,
+1954-03-04T00:00:00,Thursday,Philadelphia Warriors,78,Rochester Royals,85,,,
+1954-03-04T00:00:00,Thursday,Baltimore Bullets,95,Milwaukee Hawks,87,,,"at Philadelphia, PA"
+1954-03-05T00:00:00,Friday,New York Knicks,70,Rochester Royals,66,,,"at Boston, MA"
+1954-03-05T00:00:00,Friday,Boston Celtics,128,Minneapolis Lakers,106,,,
+1954-03-05T00:00:00,Friday,Fort Wayne Pistons,76,Philadelphia Warriors,70,,,"at Birmingham, AL"
+1954-03-06T00:00:00,Saturday,Syracuse Nationals,88,Philadelphia Warriors,77,,,
+1954-03-06T00:00:00,Saturday,Baltimore Bullets,71,Fort Wayne Pistons,76,,,
+1954-03-06T00:00:00,Saturday,Rochester Royals,74,Minneapolis Lakers,59,,,
+1954-03-07T00:00:00,Sunday,Boston Celtics,86,Fort Wayne Pistons,80,,,
+1954-03-07T00:00:00,Sunday,New York Knicks,88,Rochester Royals,91,,,
+1954-03-07T00:00:00,Sunday,Syracuse Nationals,103,Baltimore Bullets,77,,,
+1954-03-07T00:00:00,Sunday,Minneapolis Lakers,65,Milwaukee Hawks,63,,,
+1954-03-08T00:00:00,Monday,Milwaukee Hawks,65,Baltimore Bullets,54,,,
+1954-03-08T00:00:00,Monday,Milwaukee Hawks,64,Baltimore Bullets,54,,,
+1954-03-08T00:00:00,Monday,Fort Wayne Pistons,73,Philadelphia Warriors,75,,,"at Miami Beach, FL"
+1954-03-09T00:00:00,Tuesday,Minneapolis Lakers,61,Rochester Royals,70,,,"at Indianapolis, IN"
+1954-03-09T00:00:00,Tuesday,Milwaukee Hawks,65,New York Knicks,72,,,"at Indianapolis, IN"
+1954-03-10T00:00:00,Wednesday,Minneapolis Lakers,76,New York Knicks,85,,,
+1954-03-10T00:00:00,Wednesday,Milwaukee Hawks,69,Rochester Royals,84,,,"at Omaha, NE"
+1954-03-10T00:00:00,Wednesday,Baltimore Bullets,77,Syracuse Nationals,85,,,
+1954-03-10T00:00:00,Wednesday,Fort Wayne Pistons,88,Philadelphia Warriors,70,,,"at Miami Beach, FL"
+1954-03-11T00:00:00,Thursday,Fort Wayne Pistons,80,Rochester Royals,95,,,
+1954-03-11T00:00:00,Thursday,Syracuse Nationals,97,Boston Celtics,95,,OT,
+1954-03-12T00:00:00,Friday,Boston Celtics,97,Philadelphia Warriors,95,,2OT,"at New Haven, CT"
+1954-03-13T00:00:00,Saturday,Rochester Royals,77,Philadelphia Warriors,76,,,
+1954-03-13T00:00:00,Saturday,New York Knicks,67,Syracuse Nationals,60,,,
+1954-03-13T00:00:00,Saturday,Boston Celtics,97,Baltimore Bullets,85,,,
+1954-03-13T00:00:00,Saturday,Minneapolis Lakers,93,Fort Wayne Pistons,66,,,
+1954-03-14T00:00:00,Sunday,Boston Celtics,97,Philadelphia Warriors,92,,,
+1954-03-14T00:00:00,Sunday,Fort Wayne Pistons,91,Baltimore Bullets,86,,,
+1954-03-14T00:00:00,Sunday,Syracuse Nationals,113,New York Knicks,83,,,
+1954-03-14T00:00:00,Sunday,Milwaukee Hawks,91,Rochester Royals,53,,,
+1954-04-03T00:00:00,Saturday,Minneapolis Lakers,60,Syracuse Nationals,62,6277.0,,
+1954-04-04T00:00:00,Sunday,Syracuse Nationals,67,Minneapolis Lakers,81,6277.0,,
+1954-04-08T00:00:00,Thursday,Syracuse Nationals,80,Minneapolis Lakers,69,6277.0,,
+1954-04-10T00:00:00,Saturday,Syracuse Nationals,73,Minneapolis Lakers,84,6277.0,,
+1954-04-11T00:00:00,Sunday,Minneapolis Lakers,63,Syracuse Nationals,65,6277.0,,
+1954-04-12T00:00:00,Monday,Minneapolis Lakers,87,Syracuse Nationals,80,6277.0,,

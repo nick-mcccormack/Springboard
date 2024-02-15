@@ -1,0 +1,293 @@
+date,weekday,home_team,home_score,away_team,away_score,attendance,overtime,remarks
+1955-11-05T00:00:00,Saturday,Rochester Royals,98,New York Knicks,100,,OT,
+1955-11-05T00:00:00,Saturday,St. Louis Hawks,101,Minneapolis Lakers,89,,,
+1955-11-05T00:00:00,Saturday,Syracuse Nationals,114,Fort Wayne Pistons,113,,OT,
+1955-11-05T00:00:00,Saturday,Boston Celtics,98,Philadelphia Warriors,87,,,
+1955-11-06T00:00:00,Sunday,Fort Wayne Pistons,95,Minneapolis Lakers,96,,,
+1955-11-06T00:00:00,Sunday,Rochester Royals,83,Syracuse Nationals,80,,,
+1955-11-09T00:00:00,Wednesday,Philadelphia Warriors,117,Minneapolis Lakers,106,,,
+1955-11-10T00:00:00,Thursday,New York Knicks,112,Minneapolis Lakers,105,,,
+1955-11-10T00:00:00,Thursday,Philadelphia Warriors,89,Rochester Royals,84,,,"at New York, NY"
+1955-11-11T00:00:00,Friday,Boston Celtics,119,Minneapolis Lakers,75,,,
+1955-11-12T00:00:00,Saturday,Fort Wayne Pistons,79,Rochester Royals,84,,,"at St. Louis, MO"
+1955-11-12T00:00:00,Saturday,New York Knicks,96,Boston Celtics,95,,,
+1955-11-12T00:00:00,Saturday,Minneapolis Lakers,89,Philadelphia Warriors,100,,,"at Hershey, PA"
+1955-11-12T00:00:00,Saturday,St. Louis Hawks,81,Syracuse Nationals,91,,,
+1955-11-13T00:00:00,Sunday,Fort Wayne Pistons,93,Syracuse Nationals,79,,,
+1955-11-13T00:00:00,Sunday,New York Knicks,94,Rochester Royals,91,,,"at Fort Wayne, IN"
+1955-11-15T00:00:00,Tuesday,St. Louis Hawks,121,New York Knicks,95,,,
+1955-11-17T00:00:00,Thursday,Fort Wayne Pistons,88,New York Knicks,110,,,"at Syracuse, NY"
+1955-11-17T00:00:00,Thursday,Philadelphia Warriors,106,Boston Celtics,92,,,
+1955-11-17T00:00:00,Thursday,Syracuse Nationals,105,Minneapolis Lakers,91,,,
+1955-11-19T00:00:00,Saturday,New York Knicks,91,St. Louis Hawks,104,,,
+1955-11-19T00:00:00,Saturday,Rochester Royals,90,Minneapolis Lakers,91,,,
+1955-11-19T00:00:00,Saturday,Philadelphia Warriors,102,Syracuse Nationals,94,,,
+1955-11-19T00:00:00,Saturday,Boston Celtics,104,Fort Wayne Pistons,102,,,
+1955-11-20T00:00:00,Sunday,Minneapolis Lakers,96,Rochester Royals,104,,,
+1955-11-20T00:00:00,Sunday,Syracuse Nationals,84,St. Louis Hawks,80,,,
+1955-11-20T00:00:00,Sunday,Fort Wayne Pistons,115,New York Knicks,119,,OT,
+1955-11-23T00:00:00,Wednesday,Boston Celtics,111,New York Knicks,115,,OT,
+1955-11-23T00:00:00,Wednesday,Philadelphia Warriors,104,Syracuse Nationals,101,,,"at Boston, MA"
+1955-11-23T00:00:00,Wednesday,St. Louis Hawks,90,Rochester Royals,88,,OT,
+1955-11-24T00:00:00,Thursday,Fort Wayne Pistons,104,Rochester Royals,93,,,
+1955-11-24T00:00:00,Thursday,Minneapolis Lakers,107,St. Louis Hawks,99,,,
+1955-11-24T00:00:00,Thursday,Philadelphia Warriors,118,New York Knicks,97,,,
+1955-11-24T00:00:00,Thursday,Syracuse Nationals,111,Boston Celtics,103,,,
+1955-11-26T00:00:00,Saturday,Philadelphia Warriors,87,Fort Wayne Pistons,82,,,
+1955-11-26T00:00:00,Saturday,Rochester Royals,103,Boston Celtics,104,,,
+1955-11-26T00:00:00,Saturday,St. Louis Hawks,104,Minneapolis Lakers,95,,,
+1955-11-26T00:00:00,Saturday,New York Knicks,100,Syracuse Nationals,99,,,
+1955-11-27T00:00:00,Sunday,Minneapolis Lakers,99,Philadelphia Warriors,94,,,
+1955-11-27T00:00:00,Sunday,Fort Wayne Pistons,114,St. Louis Hawks,106,,OT,
+1955-11-27T00:00:00,Sunday,Syracuse Nationals,85,New York Knicks,74,,,
+1955-11-29T00:00:00,Tuesday,St. Louis Hawks,108,Philadelphia Warriors,95,,,
+1955-11-29T00:00:00,Tuesday,New York Knicks,99,Fort Wayne Pistons,104,,,
+1955-11-29T00:00:00,Tuesday,Boston Celtics,105,Syracuse Nationals,97,,,"at New York, NY"
+1955-11-30T00:00:00,Wednesday,Rochester Royals,87,Fort Wayne Pistons,76,,,
+1955-11-30T00:00:00,Wednesday,Minneapolis Lakers,97,St. Louis Hawks,99,,,"at Rochester, NY"
+1955-12-01T00:00:00,Thursday,Philadelphia Warriors,115,St. Louis Hawks,98,,,
+1955-12-01T00:00:00,Thursday,Minneapolis Lakers,97,New York Knicks,90,,,"at Philadelphia, PA"
+1955-12-02T00:00:00,Friday,Boston Celtics,94,St. Louis Hawks,81,,,
+1955-12-03T00:00:00,Saturday,New York Knicks,102,Philadelphia Warriors,109,,,
+1955-12-03T00:00:00,Saturday,Syracuse Nationals,114,Minneapolis Lakers,103,,,
+1955-12-03T00:00:00,Saturday,Rochester Royals,78,St. Louis Hawks,89,,,
+1955-12-04T00:00:00,Sunday,Fort Wayne Pistons,111,Boston Celtics,90,,,
+1955-12-04T00:00:00,Sunday,Minneapolis Lakers,96,Syracuse Nationals,102,,,
+1955-12-04T00:00:00,Sunday,Rochester Royals,107,Philadelphia Warriors,84,,,
+1955-12-06T00:00:00,Tuesday,Fort Wayne Pistons,90,Syracuse Nationals,88,,,"at St. Louis, MO"
+1955-12-06T00:00:00,Tuesday,New York Knicks,116,Rochester Royals,105,,,
+1955-12-06T00:00:00,Tuesday,St. Louis Hawks,99,Boston Celtics,122,,,
+1955-12-06T00:00:00,Tuesday,Minneapolis Lakers,103,Philadelphia Warriors,116,,,"at New York, NY"
+1955-12-07T00:00:00,Wednesday,Rochester Royals,92,Minneapolis Lakers,79,,,
+1955-12-08T00:00:00,Thursday,Fort Wayne Pistons,105,Syracuse Nationals,94,,,
+1955-12-09T00:00:00,Friday,Boston Celtics,108,Rochester Royals,109,,,"at Philadelphia, PA"
+1955-12-09T00:00:00,Friday,Philadelphia Warriors,101,Syracuse Nationals,92,,,
+1955-12-10T00:00:00,Saturday,Rochester Royals,117,Fort Wayne Pistons,116,,OT,
+1955-12-10T00:00:00,Saturday,St. Louis Hawks,80,New York Knicks,99,,,
+1955-12-10T00:00:00,Saturday,Boston Celtics,118,Minneapolis Lakers,102,,,
+1955-12-11T00:00:00,Sunday,Syracuse Nationals,101,Boston Celtics,89,,,
+1955-12-11T00:00:00,Sunday,Fort Wayne Pistons,96,Philadelphia Warriors,91,,,
+1955-12-11T00:00:00,Sunday,Rochester Royals,93,St. Louis Hawks,91,,,
+1955-12-13T00:00:00,Tuesday,New York Knicks,98,Minneapolis Lakers,91,,,
+1955-12-13T00:00:00,Tuesday,Boston Celtics,108,Philadelphia Warriors,109,,,"at New York, NY"
+1955-12-14T00:00:00,Wednesday,Rochester Royals,117,St. Louis Hawks,109,,,"at Johnstown, PA"
+1955-12-14T00:00:00,Wednesday,Fort Wayne Pistons,85,Minneapolis Lakers,98,,,"at Boston, MA"
+1955-12-14T00:00:00,Wednesday,Boston Celtics,102,New York Knicks,100,,,
+1955-12-15T00:00:00,Thursday,Philadelphia Warriors,80,Fort Wayne Pistons,73,,,
+1955-12-15T00:00:00,Thursday,Syracuse Nationals,133,Minneapolis Lakers,135,,3OT,
+1955-12-16T00:00:00,Friday,Rochester Royals,97,St. Louis Hawks,100,,OT,"at Milwaukee, WI"
+1955-12-17T00:00:00,Saturday,Minneapolis Lakers,94,Rochester Royals,92,,,
+1955-12-17T00:00:00,Saturday,Fort Wayne Pistons,95,New York Knicks,100,,,
+1955-12-17T00:00:00,Saturday,Boston Celtics,104,Syracuse Nationals,110,,,
+1955-12-18T00:00:00,Sunday,New York Knicks,92,Boston Celtics,95,,,
+1955-12-18T00:00:00,Sunday,Syracuse Nationals,99,Philadelphia Warriors,79,,,
+1955-12-18T00:00:00,Sunday,Fort Wayne Pistons,96,Minneapolis Lakers,86,,,
+1955-12-18T00:00:00,Sunday,St. Louis Hawks,86,Rochester Royals,85,,,
+1955-12-20T00:00:00,Tuesday,New York Knicks,91,Syracuse Nationals,98,,,
+1955-12-20T00:00:00,Tuesday,Boston Celtics,111,Minneapolis Lakers,104,,,"at New York, NY"
+1955-12-21T00:00:00,Wednesday,Rochester Royals,92,Philadelphia Warriors,96,,,
+1955-12-25T00:00:00,Sunday,Fort Wayne Pistons,92,New York Knicks,87,,,
+1955-12-25T00:00:00,Sunday,Minneapolis Lakers,112,Boston Celtics,115,,,
+1955-12-25T00:00:00,Sunday,Syracuse Nationals,111,Rochester Royals,96,,,
+1955-12-26T00:00:00,Monday,Fort Wayne Pistons,83,St. Louis Hawks,67,,,"at Rochester, NY"
+1955-12-26T00:00:00,Monday,Rochester Royals,93,Syracuse Nationals,91,,,
+1955-12-26T00:00:00,Monday,Philadelphia Warriors,97,New York Knicks,108,,,
+1955-12-27T00:00:00,Tuesday,New York Knicks,80,Philadelphia Warriors,79,,,
+1955-12-27T00:00:00,Tuesday,Rochester Royals,91,Syracuse Nationals,80,,,"at New York, NY"
+1955-12-27T00:00:00,Tuesday,St. Louis Hawks,102,Boston Celtics,105,,,
+1955-12-28T00:00:00,Wednesday,Minneapolis Lakers,90,St. Louis Hawks,111,,,
+1955-12-28T00:00:00,Wednesday,Rochester Royals,91,New York Knicks,113,,,
+1955-12-29T00:00:00,Thursday,Philadelphia Warriors,112,Syracuse Nationals,83,,,
+1955-12-29T00:00:00,Thursday,Fort Wayne Pistons,83,Rochester Royals,75,,,
+1955-12-29T00:00:00,Thursday,Minneapolis Lakers,74,St. Louis Hawks,71,,,"at Fort Wayne, IN"
+1955-12-30T00:00:00,Friday,Boston Celtics,110,Syracuse Nationals,103,,,"at Bangor, ME"
+1955-12-30T00:00:00,Friday,Fort Wayne Pistons,90,St. Louis Hawks,89,,,"at Lansing, MI"
+1955-12-31T00:00:00,Saturday,Syracuse Nationals,101,New York Knicks,92,,,
+1955-12-31T00:00:00,Saturday,Rochester Royals,100,Boston Celtics,112,,,
+1956-01-01T00:00:00,Sunday,Fort Wayne Pistons,85,St. Louis Hawks,68,,,
+1956-01-01T00:00:00,Sunday,Minneapolis Lakers,80,Syracuse Nationals,85,,,
+1956-01-01T00:00:00,Sunday,New York Knicks,92,Rochester Royals,101,,,
+1956-01-01T00:00:00,Sunday,Boston Celtics,121,Philadelphia Warriors,113,,,
+1956-01-02T00:00:00,Monday,Philadelphia Warriors,130,Rochester Royals,100,,,"at New Haven, CT"
+1956-01-02T00:00:00,Monday,St. Louis Hawks,82,Syracuse Nationals,84,,,
+1956-01-02T00:00:00,Monday,Fort Wayne Pistons,89,Minneapolis Lakers,95,,,"at St. Louis, MO"
+1956-01-03T00:00:00,Tuesday,Philadelphia Warriors,102,Fort Wayne Pistons,82,,,
+1956-01-03T00:00:00,Tuesday,Boston Celtics,97,New York Knicks,107,,,"at Philadelphia, PA"
+1956-01-04T00:00:00,Wednesday,Syracuse Nationals,87,Philadelphia Warriors,88,,,
+1956-01-04T00:00:00,Wednesday,Rochester Royals,86,Fort Wayne Pistons,88,,,
+1956-01-04T00:00:00,Wednesday,Minneapolis Lakers,94,St. Louis Hawks,76,,,"at Saint Paul, MN"
+1956-01-04T00:00:00,Wednesday,Boston Celtics,86,New York Knicks,103,,,"at Syracuse, NY"
+1956-01-05T00:00:00,Thursday,Fort Wayne Pistons,92,Philadelphia Warriors,81,,,"at New York, NY"
+1956-01-05T00:00:00,Thursday,New York Knicks,87,Boston Celtics,92,,,
+1956-01-07T00:00:00,Saturday,Syracuse Nationals,99,Boston Celtics,105,,OT,
+1956-01-07T00:00:00,Saturday,St. Louis Hawks,97,Fort Wayne Pistons,108,,,
+1956-01-07T00:00:00,Saturday,Rochester Royals,103,Minneapolis Lakers,98,,,
+1956-01-07T00:00:00,Saturday,Philadelphia Warriors,104,New York Knicks,97,,,
+1956-01-08T00:00:00,Sunday,Fort Wayne Pistons,91,St. Louis Hawks,96,,,
+1956-01-08T00:00:00,Sunday,Boston Celtics,109,Rochester Royals,111,,,
+1956-01-08T00:00:00,Sunday,Minneapolis Lakers,99,Syracuse Nationals,91,,,
+1956-01-08T00:00:00,Sunday,New York Knicks,83,Philadelphia Warriors,95,,,
+1956-01-10T00:00:00,Tuesday,Fort Wayne Pistons,105,Boston Celtics,89,,,
+1956-01-10T00:00:00,Tuesday,Minneapolis Lakers,90,Syracuse Nationals,79,,,"at Fort Wayne, IN"
+1956-01-10T00:00:00,Tuesday,Philadelphia Warriors,109,St. Louis Hawks,107,,OT,
+1956-01-11T00:00:00,Wednesday,Boston Celtics,110,Minneapolis Lakers,114,,,"at Saint Paul, MN"
+1956-01-11T00:00:00,Wednesday,Rochester Royals,94,Philadelphia Warriors,97,,,
+1956-01-12T00:00:00,Thursday,Syracuse Nationals,93,St. Louis Hawks,78,,,
+1956-01-12T00:00:00,Thursday,Philadelphia Warriors,123,Rochester Royals,94,,,
+1956-01-13T00:00:00,Friday,Boston Celtics,119,Syracuse Nationals,104,,,
+1956-01-13T00:00:00,Friday,Rochester Royals,98,St. Louis Hawks,90,,,"at Boston, MA"
+1956-01-14T00:00:00,Saturday,Philadelphia Warriors,103,Boston Celtics,104,,,
+1956-01-14T00:00:00,Saturday,Minneapolis Lakers,117,Fort Wayne Pistons,94,,,
+1956-01-14T00:00:00,Saturday,Rochester Royals,102,Syracuse Nationals,93,,,
+1956-01-14T00:00:00,Saturday,New York Knicks,101,St. Louis Hawks,104,,2OT,
+1956-01-15T00:00:00,Sunday,Boston Celtics,104,New York Knicks,109,,OT,
+1956-01-15T00:00:00,Sunday,Fort Wayne Pistons,104,Minneapolis Lakers,99,,,
+1956-01-15T00:00:00,Sunday,Syracuse Nationals,99,Rochester Royals,88,,,
+1956-01-15T00:00:00,Sunday,St. Louis Hawks,96,Philadelphia Warriors,108,,,
+1956-01-17T00:00:00,Tuesday,Minneapolis Lakers,97,St. Louis Hawks,86,,,"at Kansas City, MO"
+1956-01-17T00:00:00,Tuesday,Boston Celtics,91,Fort Wayne Pistons,85,,,"at Charlotte, NC"
+1956-01-17T00:00:00,Tuesday,New York Knicks,112,Rochester Royals,107,,,
+1956-01-18T00:00:00,Wednesday,Minneapolis Lakers,105,Philadelphia Warriors,94,,,"at Saint Paul, MN"
+1956-01-18T00:00:00,Wednesday,Boston Celtics,95,Fort Wayne Pistons,90,,,"at Miami, FL"
+1956-01-18T00:00:00,Wednesday,Rochester Royals,108,New York Knicks,103,,,
+1956-01-19T00:00:00,Thursday,Syracuse Nationals,122,Minneapolis Lakers,100,,,
+1956-01-19T00:00:00,Thursday,Fort Wayne Pistons,90,St. Louis Hawks,83,,,"at New Orleans, LA"
+1956-01-20T00:00:00,Friday,Boston Celtics,133,St. Louis Hawks,112,,,
+1956-01-20T00:00:00,Friday,Minneapolis Lakers,109,New York Knicks,122,,,"at Boston, MA"
+1956-01-21T00:00:00,Saturday,Boston Celtics,100,Syracuse Nationals,96,,,"at Philadelphia, PA"
+1956-01-21T00:00:00,Saturday,New York Knicks,89,Minneapolis Lakers,109,,,
+1956-01-21T00:00:00,Saturday,Philadelphia Warriors,91,Fort Wayne Pistons,92,,,
+1956-01-21T00:00:00,Saturday,Rochester Royals,97,St. Louis Hawks,90,,,"at Saratoga Springs, NY"
+1956-01-22T00:00:00,Sunday,Boston Celtics,115,Philadelphia Warriors,129,,,
+1956-01-22T00:00:00,Sunday,Syracuse Nationals,105,St. Louis Hawks,109,,,
+1956-01-22T00:00:00,Sunday,Minneapolis Lakers,95,New York Knicks,100,,,
+1956-01-22T00:00:00,Sunday,Fort Wayne Pistons,111,Rochester Royals,93,,,
+1956-01-23T00:00:00,Monday,Boston Celtics,104,Philadelphia Warriors,120,,,"at New Haven, CT"
+1956-01-25T00:00:00,Wednesday,Boston Celtics,100,Fort Wayne Pistons,101,,,"at Philadelphia, PA"
+1956-01-25T00:00:00,Wednesday,St. Louis Hawks,114,Rochester Royals,106,,,
+1956-01-25T00:00:00,Wednesday,Minneapolis Lakers,104,New York Knicks,95,,,
+1956-01-25T00:00:00,Wednesday,Philadelphia Warriors,112,Syracuse Nationals,100,,,
+1956-01-26T00:00:00,Thursday,Syracuse Nationals,100,Philadelphia Warriors,89,,,
+1956-01-27T00:00:00,Friday,Boston Celtics,97,Fort Wayne Pistons,106,,,
+1956-01-27T00:00:00,Friday,New York Knicks,93,Rochester Royals,111,,,"at Boston, MA"
+1956-01-28T00:00:00,Saturday,New York Knicks,91,Fort Wayne Pistons,92,,OT,
+1956-01-28T00:00:00,Saturday,Rochester Royals,119,Boston Celtics,126,,,
+1956-01-28T00:00:00,Saturday,St. Louis Hawks,93,Syracuse Nationals,85,,,
+1956-01-28T00:00:00,Saturday,Minneapolis Lakers,85,Philadelphia Warriors,108,,,
+1956-01-29T00:00:00,Sunday,Minneapolis Lakers,107,St. Louis Hawks,114,,,
+1956-01-29T00:00:00,Sunday,Fort Wayne Pistons,99,Philadelphia Warriors,85,,,
+1956-01-29T00:00:00,Sunday,Boston Celtics,112,Rochester Royals,103,,,
+1956-01-29T00:00:00,Sunday,Syracuse Nationals,95,New York Knicks,99,,OT,
+1956-01-31T00:00:00,Tuesday,Minneapolis Lakers,92,Rochester Royals,86,,,"at St. Louis, MO"
+1956-01-31T00:00:00,Tuesday,St. Louis Hawks,114,Boston Celtics,91,,,
+1956-01-31T00:00:00,Tuesday,New York Knicks,105,Philadelphia Warriors,95,,,
+1956-02-01T00:00:00,Wednesday,Philadelphia Warriors,104,New York Knicks,105,,2OT,
+1956-02-01T00:00:00,Wednesday,Rochester Royals,83,Syracuse Nationals,77,,,
+1956-02-01T00:00:00,Wednesday,Minneapolis Lakers,107,Boston Celtics,106,,,
+1956-02-02T00:00:00,Thursday,Boston Celtics,102,Minneapolis Lakers,101,,,"at St. Louis, MO"
+1956-02-02T00:00:00,Thursday,New York Knicks,87,Philadelphia Warriors,88,,,"at Syracuse, NY"
+1956-02-02T00:00:00,Thursday,Syracuse Nationals,97,Rochester Royals,89,,,
+1956-02-02T00:00:00,Thursday,St. Louis Hawks,98,Fort Wayne Pistons,90,,,"at St. Louis, MO"
+1956-02-03T00:00:00,Friday,Philadelphia Warriors,96,Rochester Royals,105,,,
+1956-02-04T00:00:00,Saturday,New York Knicks,94,Syracuse Nationals,103,,,
+1956-02-04T00:00:00,Saturday,Rochester Royals,83,Boston Celtics,69,,,
+1956-02-04T00:00:00,Saturday,Fort Wayne Pistons,94,St. Louis Hawks,98,,,"at Elkhart, IN"
+1956-02-05T00:00:00,Sunday,Boston Celtics,114,New York Knicks,104,,,
+1956-02-05T00:00:00,Sunday,Minneapolis Lakers,109,Rochester Royals,121,,,
+1956-02-05T00:00:00,Sunday,St. Louis Hawks,105,Philadelphia Warriors,93,,,
+1956-02-05T00:00:00,Sunday,Syracuse Nationals,90,Fort Wayne Pistons,85,,,
+1956-02-06T00:00:00,Monday,Fort Wayne Pistons,99,Syracuse Nationals,98,,,
+1956-02-07T00:00:00,Tuesday,New York Knicks,113,Boston Celtics,102,,,
+1956-02-07T00:00:00,Tuesday,Philadelphia Warriors,128,Syracuse Nationals,95,,,"at New York, NY"
+1956-02-08T00:00:00,Wednesday,Minneapolis Lakers,106,Fort Wayne Pistons,82,,,
+1956-02-08T00:00:00,Wednesday,Boston Celtics,110,St. Louis Hawks,111,,,"at Rochester, NY"
+1956-02-08T00:00:00,Wednesday,Rochester Royals,97,New York Knicks,102,,,
+1956-02-09T00:00:00,Thursday,Syracuse Nationals,97,Boston Celtics,98,,,
+1956-02-09T00:00:00,Thursday,Philadelphia Warriors,108,St. Louis Hawks,97,,,
+1956-02-10T00:00:00,Friday,Boston Celtics,124,St. Louis Hawks,100,,,
+1956-02-10T00:00:00,Friday,New York Knicks,88,Syracuse Nationals,94,,,"at Boston, MA"
+1956-02-11T00:00:00,Saturday,Minneapolis Lakers,102,Philadelphia Warriors,117,,,
+1956-02-11T00:00:00,Saturday,Rochester Royals,97,Fort Wayne Pistons,93,,,
+1956-02-11T00:00:00,Saturday,New York Knicks,107,St. Louis Hawks,91,,,
+1956-02-12T00:00:00,Sunday,Boston Celtics,116,New York Knicks,108,,,
+1956-02-12T00:00:00,Sunday,Fort Wayne Pistons,82,Minneapolis Lakers,78,,,
+1956-02-12T00:00:00,Sunday,St. Louis Hawks,79,Philadelphia Warriors,87,,,
+1956-02-12T00:00:00,Sunday,Syracuse Nationals,101,Rochester Royals,74,,,
+1956-02-13T00:00:00,Monday,Fort Wayne Pistons,94,Philadelphia Warriors,105,,,"at Miami Beach, FL"
+1956-02-14T00:00:00,Tuesday,St. Louis Hawks,99,New York Knicks,103,,,
+1956-02-14T00:00:00,Tuesday,Minneapolis Lakers,110,Rochester Royals,79,,,"at St. Louis, MO"
+1956-02-15T00:00:00,Wednesday,Minneapolis Lakers,113,New York Knicks,102,,,"at Saint Paul, MN"
+1956-02-15T00:00:00,Wednesday,Fort Wayne Pistons,78,Philadelphia Warriors,101,,,"at Miami Beach, FL"
+1956-02-16T00:00:00,Thursday,Fort Wayne Pistons,93,Rochester Royals,81,,,
+1956-02-17T00:00:00,Friday,Philadelphia Warriors,134,Minneapolis Lakers,111,,,
+1956-02-17T00:00:00,Friday,New York Knicks,86,Syracuse Nationals,91,,,"at Philadelphia, PA"
+1956-02-18T00:00:00,Saturday,Boston Celtics,101,Philadelphia Warriors,115,,,"at New Haven, CT"
+1956-02-18T00:00:00,Saturday,Syracuse Nationals,85,Fort Wayne Pistons,84,,,
+1956-02-18T00:00:00,Saturday,Rochester Royals,99,Minneapolis Lakers,119,,,
+1956-02-19T00:00:00,Sunday,Boston Celtics,120,Philadelphia Warriors,118,,,
+1956-02-19T00:00:00,Sunday,Minneapolis Lakers,100,Rochester Royals,93,,,
+1956-02-19T00:00:00,Sunday,St. Louis Hawks,83,Fort Wayne Pistons,89,,,
+1956-02-19T00:00:00,Sunday,Syracuse Nationals,118,New York Knicks,98,,,
+1956-02-20T00:00:00,Monday,Fort Wayne Pistons,82,St. Louis Hawks,84,,,"at Kansas City, MO"
+1956-02-21T00:00:00,Tuesday,New York Knicks,107,Syracuse Nationals,108,,2OT,
+1956-02-21T00:00:00,Tuesday,Fort Wayne Pistons,102,Rochester Royals,106,,,"at New York, NY"
+1956-02-21T00:00:00,Tuesday,St. Louis Hawks,101,Boston Celtics,97,,,
+1956-02-22T00:00:00,Wednesday,Philadelphia Warriors,108,New York Knicks,117,,,
+1956-02-22T00:00:00,Wednesday,Minneapolis Lakers,90,Boston Celtics,93,,,
+1956-02-22T00:00:00,Wednesday,Rochester Royals,110,St. Louis Hawks,109,,,"at Philadelphia, PA"
+1956-02-23T00:00:00,Thursday,Syracuse Nationals,94,Fort Wayne Pistons,92,,,
+1956-02-24T00:00:00,Friday,St. Louis Hawks,116,Syracuse Nationals,103,,,"at Philadelphia, PA"
+1956-02-24T00:00:00,Friday,Philadelphia Warriors,135,Boston Celtics,129,,,
+1956-02-25T00:00:00,Saturday,Rochester Royals,72,Fort Wayne Pistons,97,,,
+1956-02-25T00:00:00,Saturday,New York Knicks,89,St. Louis Hawks,99,,,
+1956-02-26T00:00:00,Sunday,Minneapolis Lakers,90,Fort Wayne Pistons,95,,,
+1956-02-26T00:00:00,Sunday,Boston Celtics,111,Rochester Royals,100,,,
+1956-02-26T00:00:00,Sunday,Syracuse Nationals,85,Philadelphia Warriors,87,,,
+1956-02-26T00:00:00,Sunday,St. Louis Hawks,103,New York Knicks,85,,,
+1956-02-27T00:00:00,Monday,New York Knicks,113,St. Louis Hawks,109,,,"at Fort Wayne, IN"
+1956-02-27T00:00:00,Monday,Fort Wayne Pistons,95,Syracuse Nationals,98,,OT,
+1956-02-28T00:00:00,Tuesday,New York Knicks,95,Fort Wayne Pistons,99,,,
+1956-02-28T00:00:00,Tuesday,Boston Celtics,97,Rochester Royals,113,,,"at New York, NY"
+1956-02-29T00:00:00,Wednesday,Minneapolis Lakers,98,Syracuse Nationals,94,,,"at Saint Paul, MN"
+1956-02-29T00:00:00,Wednesday,Boston Celtics,106,Fort Wayne Pistons,99,,,
+1956-02-29T00:00:00,Wednesday,Philadelphia Warriors,86,Rochester Royals,81,,,
+1956-03-01T00:00:00,Thursday,St. Louis Hawks,94,Rochester Royals,95,,,
+1956-03-01T00:00:00,Thursday,Philadelphia Warriors,100,Minneapolis Lakers,102,,,
+1956-03-01T00:00:00,Thursday,Syracuse Nationals,111,Boston Celtics,100,,,
+1956-03-02T00:00:00,Friday,Boston Celtics,119,Minneapolis Lakers,113,,,
+1956-03-02T00:00:00,Friday,Fort Wayne Pistons,104,New York Knicks,97,,,"at Boston, MA"
+1956-03-03T00:00:00,Saturday,Rochester Royals,94,Minneapolis Lakers,90,,,
+1956-03-03T00:00:00,Saturday,St. Louis Hawks,92,Fort Wayne Pistons,86,,,
+1956-03-03T00:00:00,Saturday,Philadelphia Warriors,102,Syracuse Nationals,96,,,
+1956-03-04T00:00:00,Sunday,Syracuse Nationals,111,New York Knicks,118,,2OT,
+1956-03-04T00:00:00,Sunday,Minneapolis Lakers,113,St. Louis Hawks,84,,,
+1956-03-04T00:00:00,Sunday,Fort Wayne Pistons,103,Rochester Royals,88,,,
+1956-03-04T00:00:00,Sunday,Boston Celtics,128,Philadelphia Warriors,114,,,
+1956-03-06T00:00:00,Tuesday,New York Knicks,119,Boston Celtics,99,,,
+1956-03-06T00:00:00,Tuesday,Philadelphia Warriors,97,St. Louis Hawks,102,,,"at New York, NY"
+1956-03-07T00:00:00,Wednesday,Minneapolis Lakers,98,Fort Wayne Pistons,95,,,
+1956-03-07T00:00:00,Wednesday,New York Knicks,87,Philadelphia Warriors,108,,,"at Boston, MA"
+1956-03-07T00:00:00,Wednesday,Boston Celtics,111,Syracuse Nationals,98,,,
+1956-03-07T00:00:00,Wednesday,Rochester Royals,89,St. Louis Hawks,96,,,
+1956-03-08T00:00:00,Thursday,Philadelphia Warriors,142,Boston Celtics,120,,,
+1956-03-08T00:00:00,Thursday,Fort Wayne Pistons,100,Minneapolis Lakers,82,,,
+1956-03-08T00:00:00,Thursday,Syracuse Nationals,92,St. Louis Hawks,88,,,
+1956-03-09T00:00:00,Friday,St. Louis Hawks,103,Minneapolis Lakers,102,,,
+1956-03-10T00:00:00,Saturday,Boston Celtics,103,Fort Wayne Pistons,106,,,"at New York, NY"
+1956-03-10T00:00:00,Saturday,New York Knicks,104,Syracuse Nationals,84,,,
+1956-03-10T00:00:00,Saturday,Rochester Royals,111,Philadelphia Warriors,96,,,
+1956-03-10T00:00:00,Saturday,St. Louis Hawks,105,Minneapolis Lakers,97,,,
+1956-03-11T00:00:00,Sunday,Minneapolis Lakers,126,Rochester Royals,98,,,
+1956-03-11T00:00:00,Sunday,Boston Celtics,121,St. Louis Hawks,127,,,
+1956-03-11T00:00:00,Sunday,Fort Wayne Pistons,96,New York Knicks,122,,,
+1956-03-11T00:00:00,Sunday,Syracuse Nationals,99,Philadelphia Warriors,88,,,
+1956-03-12T00:00:00,Monday,St. Louis Hawks,92,Syracuse Nationals,97,,,"at New Haven, CT"
+1956-03-13T00:00:00,Tuesday,Minneapolis Lakers,102,New York Knicks,89,,,"at Moorhead, MN"
+1956-03-13T00:00:00,Tuesday,Philadelphia Warriors,116,St. Louis Hawks,113,,,"at Philadelphia, PA (Lincoln High School)"
+1956-03-14T00:00:00,Wednesday,Boston Celtics,122,Syracuse Nationals,103,,,
+1956-03-14T00:00:00,Wednesday,Minneapolis Lakers,100,Fort Wayne Pistons,96,,,
+1956-03-14T00:00:00,Wednesday,New York Knicks,115,Philadelphia Warriors,108,,,
+1956-04-01T00:00:00,Sunday,Fort Wayne Pistons,84,Philadelphia Warriors,83,6976.0,,
+1956-04-03T00:00:00,Tuesday,Philadelphia Warriors,100,Fort Wayne Pistons,96,6976.0,,
+1956-04-05T00:00:00,Thursday,Fort Wayne Pistons,105,Philadelphia Warriors,107,6976.0,,
+1956-04-07T00:00:00,Saturday,Philadelphia Warriors,99,Fort Wayne Pistons,88,6976.0,,

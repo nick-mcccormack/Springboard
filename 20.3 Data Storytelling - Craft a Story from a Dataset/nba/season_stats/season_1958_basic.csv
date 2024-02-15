@@ -1,0 +1,293 @@
+date,weekday,home_team,home_score,away_team,away_score,attendance,overtime,remarks
+1957-10-22T00:00:00,Tuesday,St. Louis Hawks,90,Boston Celtics,115,,,
+1957-10-23T00:00:00,Wednesday,Detroit Pistons,94,Boston Celtics,105,,,
+1957-10-23T00:00:00,Wednesday,New York Knicks,112,St. Louis Hawks,95,,,"at Detroit, MI"
+1957-10-25T00:00:00,Friday,Syracuse Nationals,103,Philadelphia Warriors,85,,,
+1957-10-26T00:00:00,Saturday,Cincinnati Royals,110,Syracuse Nationals,100,,,
+1957-10-26T00:00:00,Saturday,Detroit Pistons,100,Philadelphia Warriors,112,,,
+1957-10-26T00:00:00,Saturday,New York Knicks,121,Boston Celtics,131,,,
+1957-10-26T00:00:00,Saturday,St. Louis Hawks,112,Minneapolis Lakers,84,,,
+1957-10-30T00:00:00,Wednesday,Minneapolis Lakers,96,Detroit Pistons,115,,,
+1957-11-01T00:00:00,Friday,Cincinnati Royals,99,St. Louis Hawks,92,,,
+1957-11-01T00:00:00,Friday,Syracuse Nationals,113,Minneapolis Lakers,100,,,
+1957-11-02T00:00:00,Saturday,Philadelphia Warriors,118,Minneapolis Lakers,108,,,
+1957-11-02T00:00:00,Saturday,Boston Celtics,107,Syracuse Nationals,83,,,
+1957-11-02T00:00:00,Saturday,St. Louis Hawks,102,Cincinnati Royals,93,,,
+1957-11-03T00:00:00,Sunday,Cincinnati Royals,88,Detroit Pistons,94,,,
+1957-11-03T00:00:00,Sunday,New York Knicks,123,Philadelphia Warriors,105,,,
+1957-11-03T00:00:00,Sunday,Boston Celtics,113,Syracuse Nationals,95,,,"at New York, NY"
+1957-11-05T00:00:00,Tuesday,Boston Celtics,111,Detroit Pistons,105,,,"at St. Louis, MO"
+1957-11-05T00:00:00,Tuesday,St. Louis Hawks,115,Syracuse Nationals,101,,,
+1957-11-06T00:00:00,Wednesday,Minneapolis Lakers,94,Boston Celtics,103,,,
+1957-11-07T00:00:00,Thursday,Philadelphia Warriors,113,New York Knicks,101,,,
+1957-11-08T00:00:00,Friday,Cincinnati Royals,110,Boston Celtics,122,,OT,
+1957-11-08T00:00:00,Friday,Syracuse Nationals,99,New York Knicks,104,,,
+1957-11-08T00:00:00,Friday,Minneapolis Lakers,108,Philadelphia Warriors,119,,,"at Hershey, PA"
+1957-11-09T00:00:00,Saturday,St. Louis Hawks,105,Philadelphia Warriors,100,,,
+1957-11-10T00:00:00,Sunday,Cincinnati Royals,101,Philadelphia Warriors,106,,,
+1957-11-11T00:00:00,Monday,Boston Celtics,92,St. Louis Hawks,88,,,
+1957-11-12T00:00:00,Tuesday,Detroit Pistons,109,New York Knicks,107,,,
+1957-11-12T00:00:00,Tuesday,Boston Celtics,107,Minneapolis Lakers,104,,,"at Detroit, MI"
+1957-11-13T00:00:00,Wednesday,Minneapolis Lakers,124,New York Knicks,106,,,"at Saint Paul, MN"
+1957-11-14T00:00:00,Thursday,Philadelphia Warriors,94,Syracuse Nationals,97,,,
+1957-11-15T00:00:00,Friday,Cincinnati Royals,101,New York Knicks,99,,,
+1957-11-15T00:00:00,Friday,Detroit Pistons,104,Minneapolis Lakers,112,,,
+1957-11-15T00:00:00,Friday,Syracuse Nationals,91,St. Louis Hawks,86,,,
+1957-11-16T00:00:00,Saturday,New York Knicks,105,Detroit Pistons,109,,,
+1957-11-16T00:00:00,Saturday,St. Louis Hawks,118,Syracuse Nationals,101,,,
+1957-11-16T00:00:00,Saturday,Boston Celtics,111,Philadelphia Warriors,89,,,
+1957-11-17T00:00:00,Sunday,Cincinnati Royals,97,St. Louis Hawks,98,,,
+1957-11-17T00:00:00,Sunday,Philadelphia Warriors,91,Detroit Pistons,95,,,
+1957-11-17T00:00:00,Sunday,Minneapolis Lakers,98,Syracuse Nationals,110,,,
+1957-11-19T00:00:00,Tuesday,Cincinnati Royals,92,Detroit Pistons,75,,,"at St. Louis, MO"
+1957-11-19T00:00:00,Tuesday,St. Louis Hawks,118,New York Knicks,115,,,
+1957-11-20T00:00:00,Wednesday,Minneapolis Lakers,101,New York Knicks,105,,,
+1957-11-20T00:00:00,Wednesday,Philadelphia Warriors,89,Cincinnati Royals,99,,,
+1957-11-21T00:00:00,Thursday,Minneapolis Lakers,123,New York Knicks,124,,OT,"at Detroit, MI"
+1957-11-21T00:00:00,Thursday,Detroit Pistons,90,Boston Celtics,112,,,
+1957-11-22T00:00:00,Friday,Syracuse Nationals,98,Cincinnati Royals,102,,,
+1957-11-23T00:00:00,Saturday,St. Louis Hawks,115,Detroit Pistons,110,,,
+1957-11-23T00:00:00,Saturday,New York Knicks,115,Syracuse Nationals,119,,,
+1957-11-23T00:00:00,Saturday,Boston Celtics,131,Minneapolis Lakers,107,,,
+1957-11-24T00:00:00,Sunday,Philadelphia Warriors,105,Minneapolis Lakers,98,,,"at Camden, NJ"
+1957-11-26T00:00:00,Tuesday,Detroit Pistons,109,Minneapolis Lakers,91,,,"at New York, NY"
+1957-11-26T00:00:00,Tuesday,New York Knicks,110,St. Louis Hawks,120,,,
+1957-11-27T00:00:00,Wednesday,Syracuse Nationals,92,Philadelphia Warriors,87,,,
+1957-11-27T00:00:00,Wednesday,Detroit Pistons,110,St. Louis Hawks,121,,,
+1957-11-27T00:00:00,Wednesday,Boston Celtics,120,New York Knicks,107,,,
+1957-11-27T00:00:00,Wednesday,Cincinnati Royals,107,Minneapolis Lakers,106,,,"at Detroit, MI"
+1957-11-28T00:00:00,Thursday,Philadelphia Warriors,102,Syracuse Nationals,98,,,
+1957-11-28T00:00:00,Thursday,Boston Celtics,80,New York Knicks,97,,,"at Philadelphia, PA"
+1957-11-28T00:00:00,Thursday,St. Louis Hawks,112,Cincinnati Royals,96,,,
+1957-11-29T00:00:00,Friday,Cincinnati Royals,99,Detroit Pistons,96,,OT,
+1957-11-30T00:00:00,Saturday,Boston Celtics,118,Syracuse Nationals,112,,,
+1957-11-30T00:00:00,Saturday,Detroit Pistons,100,Cincinnati Royals,96,,,
+1957-11-30T00:00:00,Saturday,Philadelphia Warriors,111,New York Knicks,83,,,
+1957-11-30T00:00:00,Saturday,Minneapolis Lakers,118,St. Louis Hawks,113,,,
+1957-12-01T00:00:00,Sunday,Syracuse Nationals,118,Boston Celtics,109,,,
+1957-12-01T00:00:00,Sunday,Cincinnati Royals,90,Minneapolis Lakers,89,,,
+1957-12-01T00:00:00,Sunday,New York Knicks,109,Detroit Pistons,102,,,
+1957-12-03T00:00:00,Tuesday,Philadelphia Warriors,96,Syracuse Nationals,119,,,"at New York, NY"
+1957-12-03T00:00:00,Tuesday,New York Knicks,110,Cincinnati Royals,104,,,
+1957-12-03T00:00:00,Tuesday,Minneapolis Lakers,108,St. Louis Hawks,115,,,"at Detroit, MI"
+1957-12-03T00:00:00,Tuesday,Detroit Pistons,113,Boston Celtics,124,,,
+1957-12-04T00:00:00,Wednesday,Minneapolis Lakers,98,Boston Celtics,108,,,
+1957-12-05T00:00:00,Thursday,Philadelphia Warriors,124,St. Louis Hawks,109,,,
+1957-12-05T00:00:00,Thursday,Cincinnati Royals,109,Detroit Pistons,99,,,"at Philadelphia, PA"
+1957-12-06T00:00:00,Friday,Syracuse Nationals,118,Detroit Pistons,91,,,
+1957-12-06T00:00:00,Friday,Cincinnati Royals,97,New York Knicks,112,,,
+1957-12-06T00:00:00,Friday,Boston Celtics,111,St. Louis Hawks,97,,,
+1957-12-07T00:00:00,Saturday,Minneapolis Lakers,121,Syracuse Nationals,113,,,"at Saint Paul, MN"
+1957-12-07T00:00:00,Saturday,Detroit Pistons,109,Cincinnati Royals,105,,,
+1957-12-07T00:00:00,Saturday,Philadelphia Warriors,106,Boston Celtics,112,,,
+1957-12-08T00:00:00,Sunday,Cincinnati Royals,99,Philadelphia Warriors,88,,,
+1957-12-08T00:00:00,Sunday,St. Louis Hawks,110,New York Knicks,113,,,
+1957-12-10T00:00:00,Tuesday,Detroit Pistons,97,Philadelphia Warriors,100,,,
+1957-12-10T00:00:00,Tuesday,Cincinnati Royals,90,St. Louis Hawks,102,,,"at New York, NY"
+1957-12-10T00:00:00,Tuesday,Minneapolis Lakers,104,Syracuse Nationals,114,,,"at Detroit, MI"
+1957-12-10T00:00:00,Tuesday,New York Knicks,106,Boston Celtics,103,,,
+1957-12-11T00:00:00,Wednesday,Boston Celtics,116,Cincinnati Royals,104,,,
+1957-12-11T00:00:00,Wednesday,Minneapolis Lakers,110,Syracuse Nationals,95,,,
+1957-12-11T00:00:00,Wednesday,New York Knicks,126,St. Louis Hawks,135,,,"at Boston, MA"
+1957-12-12T00:00:00,Thursday,Philadelphia Warriors,96,Detroit Pistons,101,,,
+1957-12-12T00:00:00,Thursday,Boston Celtics,94,St. Louis Hawks,97,,,"at Philadelphia, PA"
+1957-12-14T00:00:00,Saturday,Cincinnati Royals,100,Syracuse Nationals,104,,,"at Rochester, NY"
+1957-12-14T00:00:00,Saturday,St. Louis Hawks,136,New York Knicks,124,,,
+1957-12-14T00:00:00,Saturday,Boston Celtics,112,Philadelphia Warriors,94,,,
+1957-12-15T00:00:00,Sunday,Syracuse Nationals,109,Cincinnati Royals,83,,,
+1957-12-15T00:00:00,Sunday,Detroit Pistons,109,New York Knicks,116,,,
+1957-12-15T00:00:00,Sunday,Minneapolis Lakers,118,St. Louis Hawks,138,,,
+1957-12-17T00:00:00,Tuesday,Detroit Pistons,99,St. Louis Hawks,106,,,"at New York, NY"
+1957-12-17T00:00:00,Tuesday,New York Knicks,123,Syracuse Nationals,117,,,
+1957-12-18T00:00:00,Wednesday,Minneapolis Lakers,108,Philadelphia Warriors,102,,,
+1957-12-20T00:00:00,Friday,Cincinnati Royals,113,Syracuse Nationals,122,,,
+1957-12-21T00:00:00,Saturday,St. Louis Hawks,146,Syracuse Nationals,136,,,"at Detroit, MI"
+1957-12-21T00:00:00,Saturday,Detroit Pistons,112,Cincinnati Royals,101,,,
+1957-12-21T00:00:00,Saturday,Boston Celtics,140,Minneapolis Lakers,119,,,
+1957-12-22T00:00:00,Sunday,New York Knicks,126,Philadelphia Warriors,100,,,
+1957-12-22T00:00:00,Sunday,St. Louis Hawks,123,Minneapolis Lakers,115,,,
+1957-12-22T00:00:00,Sunday,Syracuse Nationals,119,Detroit Pistons,93,,,
+1957-12-22T00:00:00,Sunday,Cincinnati Royals,98,Boston Celtics,115,,,
+1957-12-25T00:00:00,Wednesday,Philadelphia Warriors,115,Boston Celtics,105,,,
+1957-12-25T00:00:00,Wednesday,Detroit Pistons,104,Minneapolis Lakers,106,,,
+1957-12-25T00:00:00,Wednesday,Syracuse Nationals,134,New York Knicks,130,,OT,
+1957-12-26T00:00:00,Thursday,Cincinnati Royals,100,Syracuse Nationals,104,,,"at St. Louis, MO"
+1957-12-26T00:00:00,Thursday,Boston Celtics,120,New York Knicks,110,,,
+1957-12-26T00:00:00,Thursday,St. Louis Hawks,106,Detroit Pistons,110,,,
+1957-12-27T00:00:00,Friday,Boston Celtics,106,Philadelphia Warriors,110,,,"at New York, NY"
+1957-12-27T00:00:00,Friday,Cincinnati Royals,96,St. Louis Hawks,97,,,
+1957-12-27T00:00:00,Friday,New York Knicks,125,Detroit Pistons,120,,,
+1957-12-28T00:00:00,Saturday,Detroit Pistons,117,Syracuse Nationals,111,,,
+1957-12-28T00:00:00,Saturday,Minneapolis Lakers,101,Cincinnati Royals,112,,,
+1957-12-28T00:00:00,Saturday,Philadelphia Warriors,122,New York Knicks,115,,,
+1957-12-28T00:00:00,Saturday,St. Louis Hawks,112,Boston Celtics,107,,,
+1957-12-29T00:00:00,Sunday,Cincinnati Royals,103,Minneapolis Lakers,111,,,
+1957-12-29T00:00:00,Sunday,Syracuse Nationals,105,Philadelphia Warriors,97,,,
+1957-12-30T00:00:00,Monday,Minneapolis Lakers,98,St. Louis Hawks,105,,,"at Dallas, TX"
+1957-12-31T00:00:00,Tuesday,Cincinnati Royals,130,Detroit Pistons,96,,,
+1957-12-31T00:00:00,Tuesday,New York Knicks,142,Minneapolis Lakers,116,,,
+1958-01-01T00:00:00,Wednesday,Syracuse Nationals,120,Minneapolis Lakers,109,,,
+1958-01-02T00:00:00,Thursday,New York Knicks,131,Syracuse Nationals,98,,,"at Philadelphia, PA"
+1958-01-02T00:00:00,Thursday,Philadelphia Warriors,95,St. Louis Hawks,93,,,
+1958-01-03T00:00:00,Friday,Cincinnati Royals,106,Philadelphia Warriors,94,,,
+1958-01-04T00:00:00,Saturday,Detroit Pistons,81,Philadelphia Warriors,78,,,
+1958-01-04T00:00:00,Saturday,Syracuse Nationals,115,Boston Celtics,106,,,
+1958-01-05T00:00:00,Sunday,Boston Celtics,113,Minneapolis Lakers,100,,,"at Providence, RI"
+1958-01-05T00:00:00,Sunday,New York Knicks,100,Cincinnati Royals,101,,,
+1958-01-05T00:00:00,Sunday,Philadelphia Warriors,96,Syracuse Nationals,111,,,
+1958-01-05T00:00:00,Sunday,St. Louis Hawks,95,Detroit Pistons,93,,,
+1958-01-07T00:00:00,Tuesday,Cincinnati Royals,114,Detroit Pistons,99,,,"at New York, NY"
+1958-01-07T00:00:00,Tuesday,New York Knicks,112,St. Louis Hawks,114,,,
+1958-01-08T00:00:00,Wednesday,Cincinnati Royals,105,New York Knicks,123,,,"at Detroit, MI"
+1958-01-08T00:00:00,Wednesday,Minneapolis Lakers,87,Boston Celtics,107,,,"at Saint Paul, MN"
+1958-01-08T00:00:00,Wednesday,Detroit Pistons,109,Syracuse Nationals,107,,,
+1958-01-09T00:00:00,Thursday,Boston Celtics,123,New York Knicks,136,,,"at Syracuse, NY"
+1958-01-09T00:00:00,Thursday,Syracuse Nationals,127,Minneapolis Lakers,122,,,
+1958-01-10T00:00:00,Friday,Detroit Pistons,114,Minneapolis Lakers,124,,,"at Philadelphia, PA"
+1958-01-10T00:00:00,Friday,Philadelphia Warriors,124,St. Louis Hawks,93,,,
+1958-01-10T00:00:00,Friday,Cincinnati Royals,107,New York Knicks,104,,,
+1958-01-11T00:00:00,Saturday,Cincinnati Royals,105,Syracuse Nationals,100,,,
+1958-01-11T00:00:00,Saturday,Detroit Pistons,129,Minneapolis Lakers,102,,,
+1958-01-11T00:00:00,Saturday,St. Louis Hawks,102,Boston Celtics,98,,,
+1958-01-12T00:00:00,Sunday,St. Louis Hawks,111,Minneapolis Lakers,105,,,
+1958-01-12T00:00:00,Sunday,New York Knicks,110,Philadelphia Warriors,115,,OT,
+1958-01-12T00:00:00,Sunday,Cincinnati Royals,115,Boston Celtics,97,,,
+1958-01-12T00:00:00,Sunday,Syracuse Nationals,135,Detroit Pistons,109,,,
+1958-01-14T00:00:00,Tuesday,St. Louis Hawks,109,Philadelphia Warriors,110,,,
+1958-01-14T00:00:00,Tuesday,Cincinnati Royals,117,New York Knicks,111,,,"at St. Louis, MO"
+1958-01-15T00:00:00,Wednesday,Boston Celtics,131,Detroit Pistons,113,,,
+1958-01-16T00:00:00,Thursday,Philadelphia Warriors,108,Detroit Pistons,113,,,
+1958-01-16T00:00:00,Thursday,Cincinnati Royals,124,Minneapolis Lakers,108,,,
+1958-01-16T00:00:00,Thursday,Syracuse Nationals,112,St. Louis Hawks,96,,,
+1958-01-17T00:00:00,Friday,Boston Celtics,120,Syracuse Nationals,99,,,
+1958-01-17T00:00:00,Friday,Minneapolis Lakers,112,St. Louis Hawks,110,,OT,"at Detroit, MI"
+1958-01-17T00:00:00,Friday,New York Knicks,116,Philadelphia Warriors,117,,,"at Boston, MA"
+1958-01-17T00:00:00,Friday,Detroit Pistons,115,Cincinnati Royals,94,,,
+1958-01-18T00:00:00,Saturday,St. Louis Hawks,105,Detroit Pistons,103,,,
+1958-01-18T00:00:00,Saturday,Philadelphia Warriors,116,Boston Celtics,104,,,
+1958-01-18T00:00:00,Saturday,New York Knicks,123,Syracuse Nationals,120,,,
+1958-01-19T00:00:00,Sunday,Boston Celtics,114,Philadelphia Warriors,113,,,
+1958-01-19T00:00:00,Sunday,Syracuse Nationals,112,New York Knicks,108,,,
+1958-01-19T00:00:00,Sunday,Minneapolis Lakers,118,Detroit Pistons,111,,,
+1958-01-19T00:00:00,Sunday,St. Louis Hawks,108,Cincinnati Royals,90,,,
+1958-01-22T00:00:00,Wednesday,Syracuse Nationals,109,Cincinnati Royals,115,,,
+1958-01-22T00:00:00,Wednesday,Minneapolis Lakers,87,Boston Celtics,97,,,
+1958-01-22T00:00:00,Wednesday,Detroit Pistons,92,New York Knicks,115,,,
+1958-01-23T00:00:00,Thursday,Philadelphia Warriors,88,Syracuse Nationals,101,,,"at Camden, NJ"
+1958-01-23T00:00:00,Thursday,Minneapolis Lakers,128,Detroit Pistons,125,,OT,"at Saint Paul, MN"
+1958-01-24T00:00:00,Friday,Boston Celtics,125,New York Knicks,104,,,
+1958-01-24T00:00:00,Friday,Cincinnati Royals,92,Philadelphia Warriors,102,,,
+1958-01-25T00:00:00,Saturday,Syracuse Nationals,112,Boston Celtics,100,,,
+1958-01-25T00:00:00,Saturday,Detroit Pistons,105,St. Louis Hawks,98,,,
+1958-01-25T00:00:00,Saturday,New York Knicks,128,Minneapolis Lakers,116,,,
+1958-01-26T00:00:00,Sunday,Boston Celtics,118,Syracuse Nationals,95,,,
+1958-01-26T00:00:00,Sunday,Minneapolis Lakers,106,New York Knicks,109,,,
+1958-01-26T00:00:00,Sunday,Cincinnati Royals,107,Detroit Pistons,103,,,
+1958-01-26T00:00:00,Sunday,St. Louis Hawks,112,Philadelphia Warriors,125,,,
+1958-01-27T00:00:00,Monday,Minneapolis Lakers,102,New York Knicks,113,,,"at Detroit, MI"
+1958-01-27T00:00:00,Monday,Detroit Pistons,115,Philadelphia Warriors,93,,,
+1958-01-28T00:00:00,Tuesday,New York Knicks,102,Syracuse Nationals,110,,,
+1958-01-28T00:00:00,Tuesday,Philadelphia Warriors,109,St. Louis Hawks,123,,,"at New York, NY"
+1958-01-29T00:00:00,Wednesday,Boston Celtics,111,St. Louis Hawks,101,,,
+1958-01-30T00:00:00,Thursday,Detroit Pistons,87,Syracuse Nationals,83,,,"at Philadelphia, PA"
+1958-01-30T00:00:00,Thursday,Minneapolis Lakers,105,Cincinnati Royals,104,,,
+1958-01-30T00:00:00,Thursday,Philadelphia Warriors,116,Boston Celtics,96,,,
+1958-01-31T00:00:00,Friday,Boston Celtics,101,Philadelphia Warriors,110,,,
+1958-01-31T00:00:00,Friday,Detroit Pistons,119,New York Knicks,105,,,"at Boston, MA"
+1958-01-31T00:00:00,Friday,Cincinnati Royals,100,St. Louis Hawks,92,,,
+1958-02-01T00:00:00,Saturday,Minneapolis Lakers,91,Syracuse Nationals,97,,,
+1958-02-01T00:00:00,Saturday,New York Knicks,114,Boston Celtics,121,,,
+1958-02-01T00:00:00,Saturday,St. Louis Hawks,127,Cincinnati Royals,88,,,
+1958-02-01T00:00:00,Saturday,Detroit Pistons,86,Philadelphia Warriors,106,,,"at New York, NY"
+1958-02-02T00:00:00,Sunday,Boston Celtics,119,Detroit Pistons,115,,,
+1958-02-02T00:00:00,Sunday,St. Louis Hawks,100,Syracuse Nationals,102,,,
+1958-02-02T00:00:00,Sunday,Philadelphia Warriors,131,New York Knicks,120,,,
+1958-02-02T00:00:00,Sunday,Minneapolis Lakers,106,Cincinnati Royals,95,,,
+1958-02-04T00:00:00,Tuesday,Boston Celtics,107,Cincinnati Royals,87,,,"at New York, NY"
+1958-02-04T00:00:00,Tuesday,Detroit Pistons,118,Syracuse Nationals,113,,,
+1958-02-04T00:00:00,Tuesday,Minneapolis Lakers,103,Philadelphia Warriors,107,,,"at Detroit, MI"
+1958-02-04T00:00:00,Tuesday,New York Knicks,120,St. Louis Hawks,116,,,
+1958-02-05T00:00:00,Wednesday,Minneapolis Lakers,102,Philadelphia Warriors,112,,,
+1958-02-05T00:00:00,Wednesday,Boston Celtics,116,Cincinnati Royals,89,,,
+1958-02-07T00:00:00,Friday,New York Knicks,102,Syracuse Nationals,105,,,"at Boston, MA"
+1958-02-07T00:00:00,Friday,Boston Celtics,114,Minneapolis Lakers,88,,,
+1958-02-07T00:00:00,Friday,Detroit Pistons,125,St. Louis Hawks,107,,,"at Philadelphia, PA"
+1958-02-07T00:00:00,Friday,Philadelphia Warriors,100,Cincinnati Royals,103,,,
+1958-02-08T00:00:00,Saturday,Syracuse Nationals,102,St. Louis Hawks,103,,,
+1958-02-08T00:00:00,Saturday,New York Knicks,94,Minneapolis Lakers,93,,,
+1958-02-08T00:00:00,Saturday,Boston Celtics,109,Cincinnati Royals,91,,,"at Rochester, NY"
+1958-02-09T00:00:00,Sunday,Cincinnati Royals,121,Minneapolis Lakers,104,,,
+1958-02-09T00:00:00,Sunday,Syracuse Nationals,123,Boston Celtics,98,,,
+1958-02-09T00:00:00,Sunday,Philadelphia Warriors,105,St. Louis Hawks,98,,,
+1958-02-09T00:00:00,Sunday,Detroit Pistons,98,New York Knicks,100,,,
+1958-02-11T00:00:00,Tuesday,Cincinnati Royals,106,Minneapolis Lakers,103,,,"at St. Louis, MO"
+1958-02-11T00:00:00,Tuesday,Philadelphia Warriors,115,Detroit Pistons,98,,,
+1958-02-11T00:00:00,Tuesday,St. Louis Hawks,107,New York Knicks,105,,,
+1958-02-11T00:00:00,Tuesday,Boston Celtics,76,Syracuse Nationals,84,,,"at Philadelphia, PA"
+1958-02-12T00:00:00,Wednesday,Boston Celtics,119,Syracuse Nationals,101,,,
+1958-02-12T00:00:00,Wednesday,Detroit Pistons,105,St. Louis Hawks,122,,,
+1958-02-12T00:00:00,Wednesday,Minneapolis Lakers,97,New York Knicks,106,,,
+1958-02-13T00:00:00,Thursday,Syracuse Nationals,108,Philadelphia Warriors,98,,,
+1958-02-14T00:00:00,Friday,Minneapolis Lakers,100,St. Louis Hawks,104,,,"at Saint Paul, MN"
+1958-02-14T00:00:00,Friday,Boston Celtics,109,Detroit Pistons,111,,,
+1958-02-14T00:00:00,Friday,Cincinnati Royals,92,New York Knicks,103,,,
+1958-02-15T00:00:00,Saturday,Philadelphia Warriors,96,Boston Celtics,110,,,
+1958-02-15T00:00:00,Saturday,New York Knicks,99,Cincinnati Royals,97,,,
+1958-02-15T00:00:00,Saturday,Detroit Pistons,110,Minneapolis Lakers,111,,,
+1958-02-16T00:00:00,Sunday,St. Louis Hawks,98,Detroit Pistons,100,,,
+1958-02-16T00:00:00,Sunday,Minneapolis Lakers,106,Philadelphia Warriors,99,,,
+1958-02-16T00:00:00,Sunday,Syracuse Nationals,113,Cincinnati Royals,105,,,
+1958-02-18T00:00:00,Tuesday,Detroit Pistons,120,Syracuse Nationals,98,,,
+1958-02-18T00:00:00,Tuesday,New York Knicks,111,Boston Celtics,113,,,
+1958-02-18T00:00:00,Tuesday,St. Louis Hawks,118,Minneapolis Lakers,98,,,
+1958-02-19T00:00:00,Wednesday,Boston Celtics,103,Philadelphia Warriors,123,,,"at Syracuse, NY"
+1958-02-19T00:00:00,Wednesday,Minneapolis Lakers,115,Detroit Pistons,117,,OT,
+1958-02-19T00:00:00,Wednesday,Syracuse Nationals,116,New York Knicks,110,,,
+1958-02-20T00:00:00,Thursday,Boston Celtics,94,Cincinnati Royals,92,,,
+1958-02-20T00:00:00,Thursday,Philadelphia Warriors,110,Syracuse Nationals,97,,,"at Boston, MA"
+1958-02-21T00:00:00,Friday,Cincinnati Royals,107,Detroit Pistons,109,,,
+1958-02-21T00:00:00,Friday,St. Louis Hawks,119,Boston Celtics,100,,,
+1958-02-21T00:00:00,Friday,Philadelphia Warriors,117,New York Knicks,111,,OT,"at Camden, NJ"
+1958-02-22T00:00:00,Saturday,Detroit Pistons,98,St. Louis Hawks,96,,,
+1958-02-22T00:00:00,Saturday,Minneapolis Lakers,100,Cincinnati Royals,81,,,
+1958-02-22T00:00:00,Saturday,New York Knicks,115,Syracuse Nationals,112,,,
+1958-02-23T00:00:00,Sunday,Boston Celtics,99,Philadelphia Warriors,97,,,"at Providence, RI"
+1958-02-23T00:00:00,Sunday,Cincinnati Royals,111,Minneapolis Lakers,93,,,
+1958-02-23T00:00:00,Sunday,Syracuse Nationals,101,St. Louis Hawks,92,,,
+1958-02-24T00:00:00,Monday,Minneapolis Lakers,95,Philadelphia Warriors,110,,,"at Bethlehem, PA"
+1958-02-25T00:00:00,Tuesday,Detroit Pistons,114,St. Louis Hawks,113,,OT,"at New York, NY"
+1958-02-25T00:00:00,Tuesday,New York Knicks,110,Philadelphia Warriors,132,,,
+1958-02-26T00:00:00,Wednesday,Cincinnati Royals,103,St. Louis Hawks,105,,,"at Detroit, MI"
+1958-02-26T00:00:00,Wednesday,Detroit Pistons,99,Boston Celtics,106,,,
+1958-02-26T00:00:00,Wednesday,New York Knicks,112,Philadelphia Warriors,96,,,"at Syracuse, NY"
+1958-02-26T00:00:00,Wednesday,Syracuse Nationals,119,Minneapolis Lakers,90,,,
+1958-02-27T00:00:00,Thursday,Detroit Pistons,112,Minneapolis Lakers,109,,,"at Philadelphia, PA"
+1958-02-27T00:00:00,Thursday,Philadelphia Warriors,97,Syracuse Nationals,91,,,
+1958-03-01T00:00:00,Saturday,Philadelphia Warriors,88,Cincinnati Royals,101,,,
+1958-03-01T00:00:00,Saturday,New York Knicks,101,Detroit Pistons,103,,,
+1958-03-02T00:00:00,Sunday,Syracuse Nationals,100,Boston Celtics,107,,,
+1958-03-02T00:00:00,Sunday,St. Louis Hawks,103,Cincinnati Royals,93,,,
+1958-03-02T00:00:00,Sunday,Minneapolis Lakers,102,Philadelphia Warriors,92,,,
+1958-03-04T00:00:00,Tuesday,New York Knicks,104,Boston Celtics,99,,,
+1958-03-04T00:00:00,Tuesday,Cincinnati Royals,91,Philadelphia Warriors,97,,,"at New York, NY"
+1958-03-05T00:00:00,Wednesday,Boston Celtics,109,St. Louis Hawks,102,,,
+1958-03-05T00:00:00,Wednesday,Syracuse Nationals,102,New York Knicks,91,,,
+1958-03-06T00:00:00,Thursday,Minneapolis Lakers,116,Detroit Pistons,132,,,
+1958-03-06T00:00:00,Thursday,Philadelphia Warriors,108,Cincinnati Royals,110,,,
+1958-03-07T00:00:00,Friday,St. Louis Hawks,102,Syracuse Nationals,100,,,
+1958-03-08T00:00:00,Saturday,St. Louis Hawks,126,Minneapolis Lakers,123,,,
+1958-03-08T00:00:00,Saturday,Boston Celtics,108,Detroit Pistons,103,,,
+1958-03-09T00:00:00,Sunday,Syracuse Nationals,111,Detroit Pistons,90,,,
+1958-03-09T00:00:00,Sunday,New York Knicks,123,Philadelphia Warriors,81,,,
+1958-03-09T00:00:00,Sunday,Minneapolis Lakers,107,St. Louis Hawks,99,,,
+1958-03-09T00:00:00,Sunday,Boston Celtics,107,Cincinnati Royals,121,,,
+1958-03-10T00:00:00,Monday,Cincinnati Royals,122,St. Louis Hawks,84,,,
+1958-03-11T00:00:00,Tuesday,Boston Celtics,126,New York Knicks,119,,,
+1958-03-11T00:00:00,Tuesday,St. Louis Hawks,101,Philadelphia Warriors,106,,,
+1958-03-12T00:00:00,Wednesday,Syracuse Nationals,110,Philadelphia Warriors,99,,,
+1958-03-12T00:00:00,Wednesday,Minneapolis Lakers,89,Cincinnati Royals,96,,,
+1958-03-12T00:00:00,Wednesday,Boston Celtics,125,New York Knicks,127,,,
+1958-04-02T00:00:00,Wednesday,St. Louis Hawks,111,Boston Celtics,108,10148.0,,
+1958-04-05T00:00:00,Saturday,St. Louis Hawks,98,Boston Celtics,109,10148.0,,
+1958-04-09T00:00:00,Wednesday,Boston Celtics,100,St. Louis Hawks,102,10148.0,,
+1958-04-12T00:00:00,Saturday,St. Louis Hawks,110,Boston Celtics,109,10148.0,,

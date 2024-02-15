@@ -1,0 +1,381 @@
+date,weekday,home_team,home_score,away_team,away_score,attendance,overtime,remarks
+1965-10-15T00:00:00,Friday,San Francisco Warriors,115,Los Angeles Lakers,122,,,
+1965-10-15T00:00:00,Friday,Cincinnati Royals,100,St. Louis Hawks,111,,,
+1965-10-16T00:00:00,Saturday,Baltimore Bullets,101,Philadelphia 76ers,133,,,
+1965-10-16T00:00:00,Saturday,Boston Celtics,102,Cincinnati Royals,98,,,
+1965-10-16T00:00:00,Saturday,New York Knicks,111,Detroit Pistons,103,,,
+1965-10-16T00:00:00,Saturday,St. Louis Hawks,94,Los Angeles Lakers,106,,,
+1965-10-17T00:00:00,Sunday,Cincinnati Royals,144,Baltimore Bullets,124,,,
+1965-10-19T00:00:00,Tuesday,Cincinnati Royals,99,San Francisco Warriors,100,,,
+1965-10-20T00:00:00,Wednesday,Detroit Pistons,116,New York Knicks,103,,,
+1965-10-20T00:00:00,Wednesday,Boston Celtics,100,Los Angeles Lakers,96,,,
+1965-10-20T00:00:00,Wednesday,Baltimore Bullets,119,St. Louis Hawks,99,,,
+1965-10-23T00:00:00,Saturday,St. Louis Hawks,120,Boston Celtics,110,,,
+1965-10-23T00:00:00,Saturday,Philadelphia 76ers,120,Detroit Pistons,103,,,
+1965-10-23T00:00:00,Saturday,New York Knicks,106,Los Angeles Lakers,101,,,
+1965-10-23T00:00:00,Saturday,Baltimore Bullets,108,San Francisco Warriors,123,,,
+1965-10-26T00:00:00,Tuesday,Detroit Pistons,98,Baltimore Bullets,117,,,
+1965-10-26T00:00:00,Tuesday,Los Angeles Lakers,104,New York Knicks,102,,,
+1965-10-27T00:00:00,Wednesday,Baltimore Bullets,107,Detroit Pistons,108,,,
+1965-10-28T00:00:00,Thursday,Los Angeles Lakers,140,New York Knicks,116,,,
+1965-10-28T00:00:00,Thursday,Cincinnati Royals,113,Boston Celtics,108,,,
+1965-10-29T00:00:00,Friday,Baltimore Bullets,121,Cincinnati Royals,131,,,
+1965-10-29T00:00:00,Friday,Detroit Pistons,108,Boston Celtics,106,,,
+1965-10-29T00:00:00,Friday,San Francisco Warriors,110,New York Knicks,100,,,
+1965-10-30T00:00:00,Saturday,Los Angeles Lakers,122,San Francisco Warriors,124,,,
+1965-10-30T00:00:00,Saturday,Philadelphia 76ers,134,Cincinnati Royals,114,,,
+1965-10-30T00:00:00,Saturday,St. Louis Hawks,122,Detroit Pistons,95,,,
+1965-10-31T00:00:00,Sunday,Cincinnati Royals,113,Detroit Pistons,107,,,
+1965-10-31T00:00:00,Sunday,San Francisco Warriors,103,New York Knicks,104,,,
+1965-10-31T00:00:00,Sunday,Boston Celtics,105,Baltimore Bullets,100,,,
+1965-11-03T00:00:00,Wednesday,Baltimore Bullets,129,New York Knicks,114,,,
+1965-11-03T00:00:00,Wednesday,Detroit Pistons,110,Philadelphia 76ers,100,,,
+1965-11-03T00:00:00,Wednesday,Cincinnati Royals,122,San Francisco Warriors,108,,,
+1965-11-03T00:00:00,Wednesday,Los Angeles Lakers,120,St. Louis Hawks,116,,,
+1965-11-04T00:00:00,Thursday,Philadelphia 76ers,119,San Francisco Warriors,121,,,"at New York, NY"
+1965-11-04T00:00:00,Thursday,New York Knicks,108,Baltimore Bullets,107,,,
+1965-11-05T00:00:00,Friday,Los Angeles Lakers,118,St. Louis Hawks,116,,,
+1965-11-05T00:00:00,Friday,Philadelphia 76ers,133,San Francisco Warriors,115,,,
+1965-11-05T00:00:00,Friday,Detroit Pistons,114,Cincinnati Royals,120,,,
+1965-11-05T00:00:00,Friday,Baltimore Bullets,118,Boston Celtics,129,,,
+1965-11-06T00:00:00,Saturday,New York Knicks,103,Cincinnati Royals,114,,,
+1965-11-06T00:00:00,Saturday,St. Louis Hawks,131,Los Angeles Lakers,101,,,
+1965-11-06T00:00:00,Saturday,San Francisco Warriors,110,Detroit Pistons,100,,,
+1965-11-06T00:00:00,Saturday,Boston Celtics,101,Philadelphia 76ers,91,,,
+1965-11-07T00:00:00,Sunday,Baltimore Bullets,137,Los Angeles Lakers,116,,,
+1965-11-09T00:00:00,Tuesday,Baltimore Bullets,116,Boston Celtics,130,,,"at Providence, RI"
+1965-11-09T00:00:00,Tuesday,San Francisco Warriors,107,Detroit Pistons,102,,,
+1965-11-09T00:00:00,Tuesday,Philadelphia 76ers,118,Los Angeles Lakers,110,,,
+1965-11-10T00:00:00,Wednesday,Cincinnati Royals,124,New York Knicks,119,,,
+1965-11-10T00:00:00,Wednesday,Los Angeles Lakers,133,Detroit Pistons,125,,,
+1965-11-10T00:00:00,Wednesday,Baltimore Bullets,124,St. Louis Hawks,117,,,
+1965-11-11T00:00:00,Thursday,Philadelphia 76ers,109,San Francisco Warriors,101,,,"at Boston, MA"
+1965-11-11T00:00:00,Thursday,Boston Celtics,87,St. Louis Hawks,83,,,
+1965-11-12T00:00:00,Friday,Detroit Pistons,102,San Francisco Warriors,103,,,
+1965-11-12T00:00:00,Friday,Los Angeles Lakers,107,New York Knicks,106,,,"at Minneapolis, MN"
+1965-11-12T00:00:00,Friday,Philadelphia 76ers,123,Boston Celtics,114,,,
+1965-11-13T00:00:00,Saturday,St. Louis Hawks,138,San Francisco Warriors,113,,,
+1965-11-13T00:00:00,Saturday,Boston Celtics,122,Detroit Pistons,93,,,
+1965-11-13T00:00:00,Saturday,Cincinnati Royals,135,Baltimore Bullets,132,,,
+1965-11-13T00:00:00,Saturday,New York Knicks,119,Philadelphia 76ers,127,,,
+1965-11-14T00:00:00,Sunday,Los Angeles Lakers,129,Baltimore Bullets,114,,,
+1965-11-15T00:00:00,Monday,Baltimore Bullets,112,San Francisco Warriors,123,,,"at San Jose, CA"
+1965-11-16T00:00:00,Tuesday,San Francisco Warriors,105,Boston Celtics,108,,,
+1965-11-16T00:00:00,Tuesday,New York Knicks,120,Detroit Pistons,95,,,
+1965-11-16T00:00:00,Tuesday,Philadelphia 76ers,107,St. Louis Hawks,98,,,"at New York, NY"
+1965-11-17T00:00:00,Wednesday,Cincinnati Royals,131,Philadelphia 76ers,115,,,
+1965-11-17T00:00:00,Wednesday,Los Angeles Lakers,125,Boston Celtics,115,,,
+1965-11-18T00:00:00,Thursday,Baltimore Bullets,120,New York Knicks,104,,,
+1965-11-19T00:00:00,Friday,Boston Celtics,129,Cincinnati Royals,103,,,
+1965-11-19T00:00:00,Friday,Detroit Pistons,109,New York Knicks,116,,,
+1965-11-19T00:00:00,Friday,Los Angeles Lakers,135,San Francisco Warriors,124,,,
+1965-11-19T00:00:00,Friday,Philadelphia 76ers,124,Baltimore Bullets,134,,,
+1965-11-20T00:00:00,Saturday,Los Angeles Lakers,133,San Francisco Warriors,117,,,"at Las Vegas, NV"
+1965-11-20T00:00:00,Saturday,New York Knicks,108,Boston Celtics,122,,,
+1965-11-20T00:00:00,Saturday,Baltimore Bullets,117,Philadelphia 76ers,112,,,
+1965-11-20T00:00:00,Saturday,St. Louis Hawks,110,Detroit Pistons,101,,,
+1965-11-21T00:00:00,Sunday,Baltimore Bullets,114,Cincinnati Royals,120,,,"at Indianapolis, IN"
+1965-11-21T00:00:00,Sunday,Los Angeles Lakers,104,Philadelphia 76ers,110,,,
+1965-11-22T00:00:00,Monday,San Francisco Warriors,112,St. Louis Hawks,108,,,"at Memphis, TN"
+1965-11-23T00:00:00,Tuesday,New York Knicks,125,San Francisco Warriors,134,,,
+1965-11-23T00:00:00,Tuesday,Cincinnati Royals,115,Detroit Pistons,118,,,"at New York, NY"
+1965-11-24T00:00:00,Wednesday,Cincinnati Royals,112,St. Louis Hawks,108,,,
+1965-11-24T00:00:00,Wednesday,Boston Celtics,125,New York Knicks,110,,,
+1965-11-24T00:00:00,Wednesday,Los Angeles Lakers,127,Philadelphia 76ers,124,,,
+1965-11-24T00:00:00,Wednesday,Detroit Pistons,130,Baltimore Bullets,124,,,
+1965-11-25T00:00:00,Thursday,St. Louis Hawks,119,San Francisco Warriors,113,,,
+1965-11-26T00:00:00,Friday,Cincinnati Royals,117,New York Knicks,113,,,
+1965-11-26T00:00:00,Friday,Boston Celtics,134,Detroit Pistons,114,,,"at Providence, RI"
+1965-11-26T00:00:00,Friday,Baltimore Bullets,110,Los Angeles Lakers,107,,,
+1965-11-26T00:00:00,Friday,San Francisco Warriors,120,Philadelphia 76ers,132,,,
+1965-11-27T00:00:00,Saturday,Boston Celtics,101,Los Angeles Lakers,95,,,
+1965-11-27T00:00:00,Saturday,New York Knicks,129,Cincinnati Royals,132,,,
+1965-11-27T00:00:00,Saturday,San Francisco Warriors,117,Philadelphia 76ers,124,,,
+1965-11-27T00:00:00,Saturday,St. Louis Hawks,136,Baltimore Bullets,110,,,
+1965-11-28T00:00:00,Sunday,Baltimore Bullets,110,St. Louis Hawks,102,,,
+1965-11-28T00:00:00,Sunday,Detroit Pistons,110,Los Angeles Lakers,128,,,
+1965-11-30T00:00:00,Tuesday,New York Knicks,138,St. Louis Hawks,119,,,
+1965-11-30T00:00:00,Tuesday,Cincinnati Royals,126,Los Angeles Lakers,120,,,
+1965-11-30T00:00:00,Tuesday,Baltimore Bullets,129,Philadelphia 76ers,108,,,"at New York, NY"
+1965-12-01T00:00:00,Wednesday,Baltimore Bullets,139,New York Knicks,125,,,"at Detroit, MI"
+1965-12-01T00:00:00,Wednesday,Detroit Pistons,101,St. Louis Hawks,110,,,
+1965-12-01T00:00:00,Wednesday,Los Angeles Lakers,121,Cincinnati Royals,105,,,
+1965-12-02T00:00:00,Thursday,Cincinnati Royals,119,San Francisco Warriors,125,,,"at Oakland, CA"
+1965-12-03T00:00:00,Friday,Boston Celtics,103,Philadelphia 76ers,119,,,
+1965-12-03T00:00:00,Friday,Los Angeles Lakers,118,Cincinnati Royals,122,,,
+1965-12-04T00:00:00,Saturday,St. Louis Hawks,94,Boston Celtics,100,,,
+1965-12-04T00:00:00,Saturday,Detroit Pistons,130,Baltimore Bullets,119,,,
+1965-12-05T00:00:00,Sunday,Cincinnati Royals,108,Boston Celtics,99,,,
+1965-12-05T00:00:00,Sunday,San Francisco Warriors,99,St. Louis Hawks,113,,,"at Omaha, NE"
+1965-12-06T00:00:00,Monday,Los Angeles Lakers,107,Philadelphia 76ers,116,,,"at Charleston, WV"
+1965-12-07T00:00:00,Tuesday,New York Knicks,131,Los Angeles Lakers,127,,,
+1965-12-07T00:00:00,Tuesday,Boston Celtics,112,St. Louis Hawks,96,,,"at New York, NY"
+1965-12-08T00:00:00,Wednesday,New York Knicks,93,St. Louis Hawks,104,,,"at Boston, MA"
+1965-12-08T00:00:00,Wednesday,Baltimore Bullets,129,Philadelphia 76ers,127,,,
+1965-12-08T00:00:00,Wednesday,Detroit Pistons,115,San Francisco Warriors,113,,,
+1965-12-08T00:00:00,Wednesday,Boston Celtics,108,Los Angeles Lakers,106,,,
+1965-12-09T00:00:00,Thursday,Cincinnati Royals,109,San Francisco Warriors,110,,,"at Dayton, OH"
+1965-12-10T00:00:00,Friday,Cincinnati Royals,110,Los Angeles Lakers,129,,,
+1965-12-10T00:00:00,Friday,St. Louis Hawks,106,New York Knicks,109,,,
+1965-12-10T00:00:00,Friday,Philadelphia 76ers,114,Detroit Pistons,116,,,
+1965-12-10T00:00:00,Friday,Baltimore Bullets,145,San Francisco Warriors,127,,,
+1965-12-11T00:00:00,Saturday,New York Knicks,150,Baltimore Bullets,127,,,
+1965-12-11T00:00:00,Saturday,Cincinnati Royals,132,Philadelphia 76ers,135,,OT,"at Syracuse, NY"
+1965-12-11T00:00:00,Saturday,Boston Celtics,143,San Francisco Warriors,106,,,
+1965-12-11T00:00:00,Saturday,Los Angeles Lakers,126,St. Louis Hawks,108,,,
+1965-12-12T00:00:00,Sunday,Los Angeles Lakers,123,St. Louis Hawks,101,,,
+1965-12-14T00:00:00,Tuesday,Cincinnati Royals,112,Philadelphia 76ers,109,,,
+1965-12-14T00:00:00,Tuesday,Baltimore Bullets,142,Detroit Pistons,129,,,"at New York, NY"
+1965-12-14T00:00:00,Tuesday,New York Knicks,141,San Francisco Warriors,137,,,
+1965-12-15T00:00:00,Wednesday,Los Angeles Lakers,108,Philadelphia 76ers,122,,,
+1965-12-15T00:00:00,Wednesday,Baltimore Bullets,111,New York Knicks,108,,,
+1965-12-15T00:00:00,Wednesday,Boston Celtics,110,Cincinnati Royals,117,,,
+1965-12-15T00:00:00,Wednesday,San Francisco Warriors,128,St. Louis Hawks,113,,,"at Oakland, CA"
+1965-12-17T00:00:00,Friday,San Francisco Warriors,102,St. Louis Hawks,103,,,
+1965-12-17T00:00:00,Friday,Los Angeles Lakers,117,Philadelphia 76ers,127,,,
+1965-12-17T00:00:00,Friday,Detroit Pistons,112,Boston Celtics,114,,,
+1965-12-18T00:00:00,Saturday,Baltimore Bullets,143,Detroit Pistons,114,,,
+1965-12-18T00:00:00,Saturday,New York Knicks,122,Cincinnati Royals,114,,,
+1965-12-18T00:00:00,Saturday,San Francisco Warriors,116,Philadelphia 76ers,120,,OT,
+1965-12-19T00:00:00,Sunday,Los Angeles Lakers,132,San Francisco Warriors,120,,,
+1965-12-20T00:00:00,Monday,San Francisco Warriors,124,Philadelphia 76ers,118,,,
+1965-12-22T00:00:00,Wednesday,Baltimore Bullets,129,Cincinnati Royals,127,,OT,
+1965-12-22T00:00:00,Wednesday,Boston Celtics,123,New York Knicks,120,,OT,
+1965-12-22T00:00:00,Wednesday,Detroit Pistons,104,San Francisco Warriors,114,,,"at Sacramento, CA"
+1965-12-23T00:00:00,Thursday,Los Angeles Lakers,122,Detroit Pistons,112,,,
+1965-12-25T00:00:00,Saturday,Los Angeles Lakers,115,Detroit Pistons,106,,,
+1965-12-25T00:00:00,Saturday,Cincinnati Royals,119,San Francisco Warriors,113,,,
+1965-12-25T00:00:00,Saturday,Baltimore Bullets,99,Boston Celtics,113,,,
+1965-12-25T00:00:00,Saturday,New York Knicks,111,St. Louis Hawks,131,,,
+1965-12-26T00:00:00,Sunday,Philadelphia 76ers,121,San Francisco Warriors,107,,,
+1965-12-26T00:00:00,Sunday,Boston Celtics,120,Baltimore Bullets,99,,,
+1965-12-26T00:00:00,Sunday,St. Louis Hawks,115,Cincinnati Royals,117,,,
+1965-12-27T00:00:00,Monday,Los Angeles Lakers,108,St. Louis Hawks,100,,,"at Memphis, TN"
+1965-12-27T00:00:00,Monday,Cincinnati Royals,138,New York Knicks,116,,,
+1965-12-28T00:00:00,Tuesday,Detroit Pistons,107,San Francisco Warriors,120,,,"at Toledo, OH"
+1965-12-28T00:00:00,Tuesday,St. Louis Hawks,100,Los Angeles Lakers,107,,,
+1965-12-28T00:00:00,Tuesday,Philadelphia 76ers,102,Boston Celtics,93,,,
+1965-12-29T00:00:00,Wednesday,New York Knicks,96,Boston Celtics,99,,,
+1965-12-29T00:00:00,Wednesday,Detroit Pistons,112,Philadelphia 76ers,113,,,
+1965-12-29T00:00:00,Wednesday,Cincinnati Royals,111,Los Angeles Lakers,109,,,
+1965-12-29T00:00:00,Wednesday,Baltimore Bullets,144,San Francisco Warriors,111,,,
+1965-12-30T00:00:00,Thursday,Detroit Pistons,117,Los Angeles Lakers,114,,,"at Fort Wayne, IN"
+1965-12-30T00:00:00,Thursday,Boston Celtics,116,San Francisco Warriors,113,,,"at Providence, RI"
+1965-12-30T00:00:00,Thursday,St. Louis Hawks,130,Philadelphia 76ers,113,,,
+1966-01-01T00:00:00,Saturday,New York Knicks,147,Cincinnati Royals,122,,,
+1966-01-01T00:00:00,Saturday,Baltimore Bullets,116,Detroit Pistons,112,,,
+1966-01-01T00:00:00,Saturday,St. Louis Hawks,100,Boston Celtics,98,,,
+1966-01-02T00:00:00,Sunday,Detroit Pistons,113,San Francisco Warriors,136,,,"at Miami, FL"
+1966-01-02T00:00:00,Sunday,Philadelphia 76ers,133,New York Knicks,122,,,
+1966-01-02T00:00:00,Sunday,Cincinnati Royals,138,Baltimore Bullets,107,,,
+1966-01-02T00:00:00,Sunday,Los Angeles Lakers,113,Boston Celtics,124,,,
+1966-01-03T00:00:00,Monday,Cincinnati Royals,130,St. Louis Hawks,114,,,"at Memphis, TN"
+1966-01-04T00:00:00,Tuesday,New York Knicks,127,Philadelphia 76ers,129,,,
+1966-01-04T00:00:00,Tuesday,Baltimore Bullets,111,San Francisco Warriors,122,,,"at New York, NY"
+1966-01-05T00:00:00,Wednesday,Cincinnati Royals,117,Detroit Pistons,103,,,"at Dayton, OH"
+1966-01-05T00:00:00,Wednesday,New York Knicks,117,San Francisco Warriors,118,,,"at Baltimore, MD"
+1966-01-05T00:00:00,Wednesday,Los Angeles Lakers,120,Boston Celtics,113,,,
+1966-01-05T00:00:00,Wednesday,Baltimore Bullets,114,St. Louis Hawks,101,,,
+1966-01-06T00:00:00,Thursday,Baltimore Bullets,127,Philadelphia 76ers,133,,,"at Syracuse, NY"
+1966-01-06T00:00:00,Thursday,Cincinnati Royals,109,Detroit Pistons,97,,,"at Toledo, OH"
+1966-01-07T00:00:00,Friday,San Francisco Warriors,114,Boston Celtics,115,,,
+1966-01-07T00:00:00,Friday,Philadelphia 76ers,120,Los Angeles Lakers,126,,,
+1966-01-07T00:00:00,Friday,Detroit Pistons,137,St. Louis Hawks,97,,,
+1966-01-08T00:00:00,Saturday,Baltimore Bullets,115,Cincinnati Royals,126,,,
+1966-01-08T00:00:00,Saturday,New York Knicks,133,Los Angeles Lakers,127,,,
+1966-01-08T00:00:00,Saturday,San Francisco Warriors,96,Boston Celtics,124,,,
+1966-01-08T00:00:00,Saturday,St. Louis Hawks,115,Philadelphia 76ers,105,,,
+1966-01-09T00:00:00,Sunday,St. Louis Hawks,117,Philadelphia 76ers,127,,,
+1966-01-09T00:00:00,Sunday,Detroit Pistons,98,Los Angeles Lakers,111,,,
+1966-01-09T00:00:00,Sunday,Baltimore Bullets,130,New York Knicks,124,,,
+1966-01-12T00:00:00,Wednesday,Boston Celtics,114,Los Angeles Lakers,102,,,
+1966-01-12T00:00:00,Wednesday,Detroit Pistons,129,Philadelphia 76ers,111,,,
+1966-01-12T00:00:00,Wednesday,San Francisco Warriors,122,New York Knicks,114,,,
+1966-01-13T00:00:00,Thursday,Cincinnati Royals,107,St. Louis Hawks,102,,,"at Indianapolis, IN"
+1966-01-14T00:00:00,Friday,Philadelphia 76ers,112,Boston Celtics,100,,,
+1966-01-14T00:00:00,Friday,St. Louis Hawks,119,Baltimore Bullets,121,,,
+1966-01-14T00:00:00,Friday,San Francisco Warriors,110,Los Angeles Lakers,118,,,
+1966-01-15T00:00:00,Saturday,Los Angeles Lakers,152,New York Knicks,123,,,
+1966-01-15T00:00:00,Saturday,Detroit Pistons,122,Baltimore Bullets,117,,,
+1966-01-16T00:00:00,Sunday,St. Louis Hawks,136,Baltimore Bullets,128,,,
+1966-01-16T00:00:00,Sunday,Cincinnati Royals,108,Detroit Pistons,106,,,
+1966-01-16T00:00:00,Sunday,Boston Celtics,137,Philadelphia 76ers,122,,,
+1966-01-17T00:00:00,Monday,New York Knicks,106,St. Louis Hawks,115,,,"at Memphis, TN"
+1966-01-18T00:00:00,Tuesday,Cincinnati Royals,119,Los Angeles Lakers,108,,,
+1966-01-18T00:00:00,Tuesday,St. Louis Hawks,109,New York Knicks,107,,,
+1966-01-18T00:00:00,Tuesday,Boston Celtics,115,Detroit Pistons,116,,,"at Philadelphia, PA"
+1966-01-18T00:00:00,Tuesday,Philadelphia 76ers,128,Baltimore Bullets,117,,,
+1966-01-19T00:00:00,Wednesday,Boston Celtics,129,Baltimore Bullets,89,,,
+1966-01-19T00:00:00,Wednesday,Detroit Pistons,93,Philadelphia 76ers,110,,,"at Boston, MA"
+1966-01-20T00:00:00,Thursday,Baltimore Bullets,123,Los Angeles Lakers,121,,,
+1966-01-20T00:00:00,Thursday,Detroit Pistons,92,St. Louis Hawks,103,,,"at Dallas, TX"
+1966-01-21T00:00:00,Friday,Philadelphia 76ers,109,New York Knicks,98,,,
+1966-01-21T00:00:00,Friday,Los Angeles Lakers,109,San Francisco Warriors,120,,,
+1966-01-21T00:00:00,Friday,Detroit Pistons,117,St. Louis Hawks,108,,,
+1966-01-21T00:00:00,Friday,Boston Celtics,113,Cincinnati Royals,96,,,
+1966-01-22T00:00:00,Saturday,St. Louis Hawks,119,New York Knicks,111,,,
+1966-01-22T00:00:00,Saturday,Baltimore Bullets,132,Boston Celtics,107,,,
+1966-01-23T00:00:00,Sunday,St. Louis Hawks,98,Philadelphia 76ers,104,,,
+1966-01-24T00:00:00,Monday,Cincinnati Royals,135,San Francisco Warriors,112,,,"at Muncie, IN"
+1966-01-24T00:00:00,Monday,Philadelphia 76ers,110,St. Louis Hawks,107,,,"at Memphis, TN"
+1966-01-25T00:00:00,Tuesday,New York Knicks,115,Detroit Pistons,100,,,
+1966-01-25T00:00:00,Tuesday,St. Louis Hawks,142,San Francisco Warriors,107,,,
+1966-01-25T00:00:00,Tuesday,Los Angeles Lakers,106,Philadelphia 76ers,110,,,"at New York, NY"
+1966-01-25T00:00:00,Tuesday,Cincinnati Royals,113,Boston Celtics,101,,,
+1966-01-26T00:00:00,Wednesday,Detroit Pistons,110,Los Angeles Lakers,126,,,
+1966-01-26T00:00:00,Wednesday,New York Knicks,115,San Francisco Warriors,103,,,"at Detroit, MI"
+1966-01-27T00:00:00,Thursday,Boston Celtics,131,Detroit Pistons,112,,,"at Fort Wayne, IN"
+1966-01-28T00:00:00,Friday,St. Louis Hawks,104,San Francisco Warriors,114,,,
+1966-01-28T00:00:00,Friday,Los Angeles Lakers,138,Baltimore Bullets,123,,,
+1966-01-28T00:00:00,Friday,Boston Celtics,105,Detroit Pistons,108,,,
+1966-01-28T00:00:00,Friday,Philadelphia 76ers,125,Cincinnati Royals,103,,,
+1966-01-29T00:00:00,Saturday,Cincinnati Royals,116,St. Louis Hawks,115,,,
+1966-01-29T00:00:00,Saturday,New York Knicks,107,Boston Celtics,119,,,
+1966-01-29T00:00:00,Saturday,San Francisco Warriors,108,Baltimore Bullets,95,,,
+1966-01-30T00:00:00,Sunday,Boston Celtics,118,New York Knicks,115,,,
+1966-01-30T00:00:00,Sunday,Philadelphia 76ers,117,Detroit Pistons,98,,,
+1966-01-30T00:00:00,Sunday,St. Louis Hawks,115,Cincinnati Royals,98,,,
+1966-01-30T00:00:00,Sunday,Los Angeles Lakers,136,Baltimore Bullets,122,,,
+1966-01-31T00:00:00,Monday,San Francisco Warriors,131,Baltimore Bullets,118,,,
+1966-02-01T00:00:00,Tuesday,New York Knicks,112,Baltimore Bullets,109,,,
+1966-02-01T00:00:00,Tuesday,Boston Celtics,100,Detroit Pistons,81,,,"at New York, NY"
+1966-02-01T00:00:00,Tuesday,San Francisco Warriors,127,Cincinnati Royals,125,,,
+1966-02-02T00:00:00,Wednesday,Detroit Pistons,99,Boston Celtics,93,,,
+1966-02-02T00:00:00,Wednesday,Los Angeles Lakers,119,Cincinnati Royals,118,,,
+1966-02-02T00:00:00,Wednesday,Philadelphia 76ers,89,St. Louis Hawks,96,,,"at Greensboro, NC"
+1966-02-03T00:00:00,Thursday,Baltimore Bullets,122,St. Louis Hawks,113,,,
+1966-02-04T00:00:00,Friday,Detroit Pistons,113,New York Knicks,115,,,
+1966-02-04T00:00:00,Friday,Los Angeles Lakers,132,Cincinnati Royals,125,,,
+1966-02-04T00:00:00,Friday,Boston Celtics,117,St. Louis Hawks,95,,,
+1966-02-05T00:00:00,Saturday,New York Knicks,120,Philadelphia 76ers,113,,,
+1966-02-05T00:00:00,Saturday,Baltimore Bullets,113,Boston Celtics,94,,,
+1966-02-06T00:00:00,Sunday,Cincinnati Royals,117,San Francisco Warriors,116,,,"at Phoenix, AZ"
+1966-02-06T00:00:00,Sunday,St. Louis Hawks,109,Los Angeles Lakers,105,,,
+1966-02-06T00:00:00,Sunday,Boston Celtics,100,Philadelphia 76ers,99,,,
+1966-02-07T00:00:00,Monday,Cincinnati Royals,118,Detroit Pistons,124,,,"at Indianapolis, IN"
+1966-02-07T00:00:00,Monday,Philadelphia 76ers,132,Los Angeles Lakers,125,,,
+1966-02-07T00:00:00,Monday,Boston Celtics,112,San Francisco Warriors,107,,,"at Philadelphia, PA"
+1966-02-07T00:00:00,Monday,Baltimore Bullets,111,St. Louis Hawks,104,,,"at Memphis, TN"
+1966-02-08T00:00:00,Tuesday,New York Knicks,136,Philadelphia 76ers,123,,,
+1966-02-08T00:00:00,Tuesday,Detroit Pistons,103,San Francisco Warriors,113,,,"at New York, NY"
+1966-02-08T00:00:00,Tuesday,Cincinnati Royals,128,Baltimore Bullets,113,,,
+1966-02-09T00:00:00,Wednesday,Boston Celtics,121,New York Knicks,117,,,
+1966-02-09T00:00:00,Wednesday,Baltimore Bullets,116,Los Angeles Lakers,123,,OT,
+1966-02-09T00:00:00,Wednesday,Detroit Pistons,91,Philadelphia 76ers,108,,,
+1966-02-10T00:00:00,Thursday,Boston Celtics,117,San Francisco Warriors,128,,,"at Providence, RI"
+1966-02-11T00:00:00,Friday,Philadelphia 76ers,113,Cincinnati Royals,94,,,
+1966-02-11T00:00:00,Friday,Detroit Pistons,107,New York Knicks,122,,,"at Boston, MA"
+1966-02-11T00:00:00,Friday,Boston Celtics,99,San Francisco Warriors,96,,,
+1966-02-12T00:00:00,Saturday,Cincinnati Royals,143,Detroit Pistons,116,,,
+1966-02-12T00:00:00,Saturday,New York Knicks,140,Los Angeles Lakers,127,,,
+1966-02-12T00:00:00,Saturday,Boston Celtics,85,Philadelphia 76ers,83,,,"at Syracuse, NY"
+1966-02-12T00:00:00,Saturday,Baltimore Bullets,136,San Francisco Warriors,127,,,
+1966-02-13T00:00:00,Sunday,St. Louis Hawks,104,Cincinnati Royals,102,,,
+1966-02-13T00:00:00,Sunday,Boston Celtics,110,Los Angeles Lakers,120,,,
+1966-02-14T00:00:00,Monday,Detroit Pistons,123,Philadelphia 76ers,149,,,"at Charleston, WV"
+1966-02-14T00:00:00,Monday,New York Knicks,138,San Francisco Warriors,125,,,"at Oakland, CA"
+1966-02-15T00:00:00,Tuesday,Philadelphia 76ers,121,St. Louis Hawks,109,,,"at Pittsburgh, PA"
+1966-02-15T00:00:00,Tuesday,Baltimore Bullets,114,Detroit Pistons,105,,,
+1966-02-15T00:00:00,Tuesday,Cincinnati Royals,136,Boston Celtics,123,,,
+1966-02-15T00:00:00,Tuesday,Los Angeles Lakers,132,New York Knicks,124,,,
+1966-02-16T00:00:00,Wednesday,New York Knicks,112,San Francisco Warriors,108,,,"at San Jose, CA"
+1966-02-17T00:00:00,Thursday,Los Angeles Lakers,121,Philadelphia 76ers,136,,,
+1966-02-18T00:00:00,Friday,San Francisco Warriors,128,Boston Celtics,106,,,
+1966-02-18T00:00:00,Friday,Baltimore Bullets,118,Cincinnati Royals,114,,,
+1966-02-18T00:00:00,Friday,Detroit Pistons,120,New York Knicks,118,,,
+1966-02-19T00:00:00,Saturday,San Francisco Warriors,119,Philadelphia 76ers,123,,,
+1966-02-19T00:00:00,Saturday,Los Angeles Lakers,111,Boston Celtics,115,,,
+1966-02-19T00:00:00,Saturday,New York Knicks,124,Cincinnati Royals,113,,,
+1966-02-20T00:00:00,Sunday,Detroit Pistons,129,Cincinnati Royals,133,,,
+1966-02-20T00:00:00,Sunday,St. Louis Hawks,126,Baltimore Bullets,123,,,
+1966-02-21T00:00:00,Monday,Los Angeles Lakers,108,Boston Celtics,115,,,
+1966-02-21T00:00:00,Monday,Cincinnati Royals,113,Philadelphia 76ers,107,,,"at Dayton, OH"
+1966-02-22T00:00:00,Tuesday,San Francisco Warriors,108,Boston Celtics,116,,,
+1966-02-22T00:00:00,Tuesday,New York Knicks,113,St. Louis Hawks,108,,,
+1966-02-22T00:00:00,Tuesday,Detroit Pistons,112,Philadelphia 76ers,117,,,"at New York, NY"
+1966-02-23T00:00:00,Wednesday,Los Angeles Lakers,140,Cincinnati Royals,133,,,
+1966-02-23T00:00:00,Wednesday,Detroit Pistons,98,New York Knicks,100,,,"at Baltimore, MD"
+1966-02-23T00:00:00,Wednesday,Baltimore Bullets,119,Philadelphia 76ers,115,,,
+1966-02-24T00:00:00,Thursday,Boston Celtics,134,St. Louis Hawks,106,,,
+1966-02-25T00:00:00,Friday,San Francisco Warriors,125,Cincinnati Royals,119,,,
+1966-02-25T00:00:00,Friday,Philadelphia 76ers,130,New York Knicks,124,,,
+1966-02-26T00:00:00,Saturday,New York Knicks,95,Boston Celtics,100,,,
+1966-02-26T00:00:00,Saturday,Detroit Pistons,118,Los Angeles Lakers,131,,,
+1966-02-26T00:00:00,Saturday,Baltimore Bullets,98,Philadelphia 76ers,114,,,"at New York, NY"
+1966-02-26T00:00:00,Saturday,San Francisco Warriors,103,Cincinnati Royals,112,,,
+1966-02-27T00:00:00,Sunday,St. Louis Hawks,125,Detroit Pistons,114,,,
+1966-02-27T00:00:00,Sunday,Baltimore Bullets,132,Boston Celtics,92,,,
+1966-02-28T00:00:00,Monday,Detroit Pistons,103,St. Louis Hawks,108,,,"at Memphis, TN"
+1966-03-01T00:00:00,Tuesday,Cincinnati Royals,102,Philadelphia 76ers,100,,,
+1966-03-01T00:00:00,Tuesday,New York Knicks,112,San Francisco Warriors,114,,,
+1966-03-01T00:00:00,Tuesday,St. Louis Hawks,95,Boston Celtics,120,,,
+1966-03-01T00:00:00,Tuesday,Baltimore Bullets,110,Detroit Pistons,122,,,"at New York, NY"
+1966-03-02T00:00:00,Wednesday,Detroit Pistons,131,San Francisco Warriors,118,,,
+1966-03-02T00:00:00,Wednesday,Boston Celtics,140,New York Knicks,104,,,
+1966-03-02T00:00:00,Wednesday,Baltimore Bullets,119,Los Angeles Lakers,113,,,
+1966-03-03T00:00:00,Thursday,Philadelphia 76ers,135,San Francisco Warriors,125,,,
+1966-03-04T00:00:00,Friday,Cincinnati Royals,103,Philadelphia 76ers,107,,,
+1966-03-04T00:00:00,Friday,Los Angeles Lakers,123,Baltimore Bullets,106,,,
+1966-03-04T00:00:00,Friday,Boston Celtics,112,St. Louis Hawks,132,,,"at Providence, RI"
+1966-03-04T00:00:00,Friday,Detroit Pistons,119,New York Knicks,121,,,"at Fort Wayne, IN"
+1966-03-05T00:00:00,Saturday,Cincinnati Royals,149,New York Knicks,145,,OT,
+1966-03-05T00:00:00,Saturday,San Francisco Warriors,123,Los Angeles Lakers,125,,,
+1966-03-05T00:00:00,Saturday,Philadelphia 76ers,102,Boston Celtics,85,,,
+1966-03-06T00:00:00,Sunday,Boston Celtics,110,Philadelphia 76ers,113,,,
+1966-03-06T00:00:00,Sunday,Detroit Pistons,125,Cincinnati Royals,137,,,
+1966-03-06T00:00:00,Sunday,Los Angeles Lakers,126,Baltimore Bullets,105,,,
+1966-03-06T00:00:00,Sunday,St. Louis Hawks,119,New York Knicks,106,,,
+1966-03-07T00:00:00,Monday,Boston Celtics,106,St. Louis Hawks,104,,,"at Memphis, TN"
+1966-03-08T00:00:00,Tuesday,Baltimore Bullets,130,San Francisco Warriors,109,,,"at Eugene, OR"
+1966-03-08T00:00:00,Tuesday,Philadelphia 76ers,112,St. Louis Hawks,106,,,"at New York, NY"
+1966-03-08T00:00:00,Tuesday,New York Knicks,133,Los Angeles Lakers,132,,OT,
+1966-03-09T00:00:00,Wednesday,Baltimore Bullets,115,San Francisco Warriors,125,,,"at Seattle, WA"
+1966-03-09T00:00:00,Wednesday,Cincinnati Royals,116,Los Angeles Lakers,119,,,"at Indianapolis, IN"
+1966-03-09T00:00:00,Wednesday,Philadelphia 76ers,123,St. Louis Hawks,115,,,
+1966-03-10T00:00:00,Thursday,Cincinnati Royals,120,Boston Celtics,124,,,
+1966-03-11T00:00:00,Friday,Los Angeles Lakers,114,Detroit Pistons,116,,,
+1966-03-11T00:00:00,Friday,New York Knicks,123,Baltimore Bullets,126,,,
+1966-03-12T00:00:00,Saturday,Philadelphia 76ers,134,New York Knicks,126,,,
+1966-03-12T00:00:00,Saturday,Cincinnati Royals,113,St. Louis Hawks,114,,,
+1966-03-13T00:00:00,Sunday,Boston Celtics,129,Baltimore Bullets,98,,,
+1966-03-13T00:00:00,Sunday,Detroit Pistons,119,San Francisco Warriors,121,,,"at Oakland, CA"
+1966-03-13T00:00:00,Sunday,New York Knicks,113,Philadelphia 76ers,115,,,
+1966-03-13T00:00:00,Sunday,St. Louis Hawks,115,Cincinnati Royals,106,,,
+1966-03-15T00:00:00,Tuesday,San Francisco Warriors,109,St. Louis Hawks,110,,,"at San Jose, CA"
+1966-03-15T00:00:00,Tuesday,Los Angeles Lakers,135,Detroit Pistons,108,,,
+1966-03-15T00:00:00,Tuesday,Cincinnati Royals,125,New York Knicks,107,,,"at Dayton, OH"
+1966-03-16T00:00:00,Wednesday,Baltimore Bullets,118,New York Knicks,113,,,
+1966-03-17T00:00:00,Thursday,Detroit Pistons,103,Boston Celtics,128,,,
+1966-03-17T00:00:00,Thursday,Philadelphia 76ers,115,New York Knicks,106,,,
+1966-03-17T00:00:00,Thursday,San Francisco Warriors,116,St. Louis Hawks,112,,,
+1966-03-18T00:00:00,Friday,Los Angeles Lakers,132,St. Louis Hawks,120,,,
+1966-03-18T00:00:00,Friday,Baltimore Bullets,125,Cincinnati Royals,105,,,
+1966-03-19T00:00:00,Saturday,San Francisco Warriors,125,Los Angeles Lakers,119,,,
+1966-03-19T00:00:00,Saturday,New York Knicks,113,Boston Celtics,126,,,
+1966-03-19T00:00:00,Saturday,St. Louis Hawks,115,Detroit Pistons,112,,,
+1966-03-19T00:00:00,Saturday,Philadelphia 76ers,127,Cincinnati Royals,121,,,
+1966-03-20T00:00:00,Sunday,Los Angeles Lakers,124,San Francisco Warriors,112,,,
+1966-03-20T00:00:00,Sunday,Detroit Pistons,117,St. Louis Hawks,121,,,
+1966-03-20T00:00:00,Sunday,Boston Celtics,121,Cincinnati Royals,104,,,
+1966-03-20T00:00:00,Sunday,Baltimore Bullets,104,Philadelphia 76ers,108,,,
+1966-03-22T00:00:00,Tuesday,New York Knicks,126,St. Louis Hawks,125,,,
+1966-04-01T00:00:00,Friday,Los Angeles Lakers,129,St. Louis Hawks,106,,,
+1966-04-01T00:00:00,Friday,Boston Celtics,112,Cincinnati Royals,103,,,
+1966-04-03T00:00:00,Sunday,Philadelphia 76ers,96,Boston Celtics,115,,,
+1966-04-03T00:00:00,Sunday,Los Angeles Lakers,125,St. Louis Hawks,116,,,
+1966-04-06T00:00:00,Wednesday,St. Louis Hawks,120,Los Angeles Lakers,113,,,
+1966-04-06T00:00:00,Wednesday,Boston Celtics,114,Philadelphia 76ers,93,,,
+1966-04-07T00:00:00,Thursday,Philadelphia 76ers,111,Boston Celtics,105,,,
+1966-04-09T00:00:00,Saturday,St. Louis Hawks,95,Los Angeles Lakers,107,,,
+1966-04-10T00:00:00,Sunday,Los Angeles Lakers,100,St. Louis Hawks,112,,,
+1966-04-10T00:00:00,Sunday,Boston Celtics,114,Philadelphia 76ers,108,,OT,
+1966-04-12T00:00:00,Tuesday,Philadelphia 76ers,112,Boston Celtics,120,,,
+1966-04-13T00:00:00,Wednesday,St. Louis Hawks,131,Los Angeles Lakers,127,,,
+1966-04-15T00:00:00,Friday,Los Angeles Lakers,130,St. Louis Hawks,121,,,
+1966-04-17T00:00:00,Sunday,Boston Celtics,129,Los Angeles Lakers,133,,OT,
+1966-04-19T00:00:00,Tuesday,Boston Celtics,129,Los Angeles Lakers,109,,,
+1966-04-20T00:00:00,Wednesday,Los Angeles Lakers,106,Boston Celtics,120,,,
+1966-04-22T00:00:00,Friday,Los Angeles Lakers,117,Boston Celtics,122,,,
+1966-04-24T00:00:00,Sunday,Boston Celtics,117,Los Angeles Lakers,121,,,
+1966-04-26T00:00:00,Tuesday,Los Angeles Lakers,123,Boston Celtics,115,,,
+1966-04-28T00:00:00,Thursday,Boston Celtics,95,Los Angeles Lakers,93,,,

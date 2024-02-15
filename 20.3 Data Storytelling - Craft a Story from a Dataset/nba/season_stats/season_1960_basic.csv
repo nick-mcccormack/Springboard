@@ -1,0 +1,306 @@
+date,weekday,home_team,home_score,away_team,away_score,attendance,overtime,remarks
+1959-10-17T00:00:00,Saturday,Boston Celtics,129,Cincinnati Royals,125,,,
+1959-10-18T00:00:00,Sunday,Minneapolis Lakers,105,Detroit Pistons,106,,,
+1959-10-24T00:00:00,Saturday,Cincinnati Royals,108,Detroit Pistons,103,,,
+1959-10-24T00:00:00,Saturday,New York Knicks,109,Philadelphia Warriors,118,,,
+1959-10-24T00:00:00,Saturday,St. Louis Hawks,87,Minneapolis Lakers,94,,,
+1959-10-24T00:00:00,Saturday,Syracuse Nationals,109,Boston Celtics,121,,,
+1959-10-25T00:00:00,Sunday,Cincinnati Royals,103,Minneapolis Lakers,102,,,
+1959-10-28T00:00:00,Wednesday,Detroit Pistons,117,Syracuse Nationals,102,,,
+1959-10-30T00:00:00,Friday,Cincinnati Royals,127,Syracuse Nationals,136,,,
+1959-10-31T00:00:00,Saturday,New York Knicks,109,Boston Celtics,123,,,
+1959-10-31T00:00:00,Saturday,Philadelphia Warriors,120,Detroit Pistons,112,,,
+1959-10-31T00:00:00,Saturday,St. Louis Hawks,109,Cincinnati Royals,102,,,
+1959-10-31T00:00:00,Saturday,Syracuse Nationals,117,Minneapolis Lakers,108,,,
+1959-11-01T00:00:00,Sunday,Cincinnati Royals,109,Boston Celtics,124,,,
+1959-11-01T00:00:00,Sunday,Minneapolis Lakers,101,St. Louis Hawks,138,,,
+1959-11-03T00:00:00,Tuesday,Minneapolis Lakers,93,New York Knicks,99,,,"at St. Louis, MO"
+1959-11-03T00:00:00,Tuesday,St. Louis Hawks,98,Boston Celtics,103,,,
+1959-11-04T00:00:00,Wednesday,Philadelphia Warriors,124,Syracuse Nationals,113,,,
+1959-11-04T00:00:00,Wednesday,Detroit Pistons,101,New York Knicks,107,,,
+1959-11-06T00:00:00,Friday,Minneapolis Lakers,113,Detroit Pistons,118,,2OT,
+1959-11-07T00:00:00,Saturday,Detroit Pistons,111,Minneapolis Lakers,113,,OT,
+1959-11-07T00:00:00,Saturday,Boston Celtics,115,Philadelphia Warriors,106,,,
+1959-11-07T00:00:00,Saturday,St. Louis Hawks,117,New York Knicks,113,,,
+1959-11-07T00:00:00,Saturday,Cincinnati Royals,103,Syracuse Nationals,101,,,"at Rochester, NY"
+1959-11-08T00:00:00,Sunday,Syracuse Nationals,118,Detroit Pistons,107,,,
+1959-11-08T00:00:00,Sunday,Philadelphia Warriors,134,Cincinnati Royals,106,,,
+1959-11-08T00:00:00,Sunday,Minneapolis Lakers,136,Boston Celtics,115,,,
+1959-11-10T00:00:00,Tuesday,Philadelphia Warriors,126,New York Knicks,125,,,
+1959-11-10T00:00:00,Tuesday,St. Louis Hawks,134,Minneapolis Lakers,105,,,
+1959-11-10T00:00:00,Tuesday,Boston Celtics,128,Detroit Pistons,109,,,"at St. Louis, MO"
+1959-11-11T00:00:00,Wednesday,Detroit Pistons,105,Philadelphia Warriors,119,,,
+1959-11-11T00:00:00,Wednesday,Boston Celtics,151,Cincinnati Royals,118,,,
+1959-11-12T00:00:00,Thursday,Cincinnati Royals,116,Philadelphia Warriors,124,,,
+1959-11-12T00:00:00,Thursday,New York Knicks,104,Syracuse Nationals,113,,,
+1959-11-12T00:00:00,Thursday,Detroit Pistons,107,Minneapolis Lakers,93,,,"at New York, NY"
+1959-11-14T00:00:00,Saturday,Detroit Pistons,111,Cincinnati Royals,103,,,
+1959-11-14T00:00:00,Saturday,Philadelphia Warriors,104,Minneapolis Lakers,98,,,
+1959-11-14T00:00:00,Saturday,Syracuse Nationals,116,New York Knicks,108,,,
+1959-11-14T00:00:00,Saturday,Boston Celtics,113,St. Louis Hawks,111,,,
+1959-11-15T00:00:00,Sunday,Minneapolis Lakers,106,Philadelphia Warriors,100,,,"at Saint Paul, MN"
+1959-11-15T00:00:00,Sunday,New York Knicks,94,Detroit Pistons,103,,,
+1959-11-15T00:00:00,Sunday,Cincinnati Royals,128,Boston Celtics,134,,,
+1959-11-17T00:00:00,Tuesday,Cincinnati Royals,116,Syracuse Nationals,121,,,"at New York, NY"
+1959-11-17T00:00:00,Tuesday,Detroit Pistons,129,Boston Celtics,132,,2OT,
+1959-11-17T00:00:00,Tuesday,New York Knicks,105,St. Louis Hawks,97,,,
+1959-11-18T00:00:00,Wednesday,Minneapolis Lakers,105,New York Knicks,106,,,
+1959-11-18T00:00:00,Wednesday,Cincinnati Royals,93,Detroit Pistons,110,,,"at Indianapolis, IN"
+1959-11-18T00:00:00,Wednesday,Syracuse Nationals,138,Boston Celtics,103,,,
+1959-11-19T00:00:00,Thursday,Cincinnati Royals,109,New York Knicks,130,,,
+1959-11-20T00:00:00,Friday,Philadelphia Warriors,117,St. Louis Hawks,118,,,
+1959-11-20T00:00:00,Friday,Boston Celtics,114,Syracuse Nationals,101,,,
+1959-11-20T00:00:00,Friday,Minneapolis Lakers,105,Detroit Pistons,85,,,
+1959-11-21T00:00:00,Saturday,New York Knicks,127,Boston Celtics,128,,,
+1959-11-21T00:00:00,Saturday,Syracuse Nationals,116,Philadelphia Warriors,107,,,
+1959-11-21T00:00:00,Saturday,Cincinnati Royals,93,Minneapolis Lakers,99,,OT,
+1959-11-21T00:00:00,Saturday,St. Louis Hawks,107,Detroit Pistons,109,,,
+1959-11-22T00:00:00,Sunday,Cincinnati Royals,106,St. Louis Hawks,100,,,
+1959-11-22T00:00:00,Sunday,Detroit Pistons,115,New York Knicks,104,,,
+1959-11-22T00:00:00,Sunday,Philadelphia Warriors,114,Syracuse Nationals,103,,,"at Camden, NJ"
+1959-11-24T00:00:00,Tuesday,New York Knicks,107,Syracuse Nationals,120,,,
+1959-11-24T00:00:00,Tuesday,Cincinnati Royals,91,Detroit Pistons,104,,,"at New York, NY"
+1959-11-25T00:00:00,Wednesday,Boston Celtics,113,Philadelphia Warriors,123,,,
+1959-11-25T00:00:00,Wednesday,Detroit Pistons,97,St. Louis Hawks,104,,,
+1959-11-25T00:00:00,Wednesday,Minneapolis Lakers,93,Syracuse Nationals,100,,,
+1959-11-26T00:00:00,Thursday,St. Louis Hawks,112,Syracuse Nationals,95,,,
+1959-11-26T00:00:00,Thursday,Philadelphia Warriors,143,Boston Celtics,130,,,
+1959-11-26T00:00:00,Thursday,Cincinnati Royals,114,Minneapolis Lakers,95,,,
+1959-11-28T00:00:00,Saturday,Boston Celtics,136,Detroit Pistons,110,,,
+1959-11-28T00:00:00,Saturday,Cincinnati Royals,105,Syracuse Nationals,111,,,
+1959-11-28T00:00:00,Saturday,New York Knicks,108,Philadelphia Warriors,109,,,
+1959-11-28T00:00:00,Saturday,St. Louis Hawks,102,Minneapolis Lakers,91,,,
+1959-11-29T00:00:00,Sunday,Minneapolis Lakers,93,Boston Celtics,109,,,"at Saint Paul, MN"
+1959-11-29T00:00:00,Sunday,Philadelphia Warriors,126,New York Knicks,127,,,
+1959-12-01T00:00:00,Tuesday,St. Louis Hawks,106,Syracuse Nationals,101,,,"at New York, NY"
+1959-12-01T00:00:00,Tuesday,New York Knicks,100,Minneapolis Lakers,103,,,
+1959-12-02T00:00:00,Wednesday,Syracuse Nationals,130,St. Louis Hawks,121,,,
+1959-12-02T00:00:00,Wednesday,Cincinnati Royals,135,New York Knicks,118,,,"at Syracuse, NY"
+1959-12-03T00:00:00,Thursday,Philadelphia Warriors,123,Minneapolis Lakers,109,,,
+1959-12-03T00:00:00,Thursday,Boston Celtics,114,Cincinnati Royals,111,,,"at Philadelphia, PA"
+1959-12-04T00:00:00,Friday,Boston Celtics,122,New York Knicks,107,,,
+1959-12-04T00:00:00,Friday,Detroit Pistons,120,Minneapolis Lakers,101,,,
+1959-12-04T00:00:00,Friday,Philadelphia Warriors,124,St. Louis Hawks,112,,,"at Detroit, MI"
+1959-12-05T00:00:00,Saturday,New York Knicks,124,Detroit Pistons,108,,,
+1959-12-05T00:00:00,Saturday,St. Louis Hawks,113,Philadelphia Warriors,112,,,
+1959-12-05T00:00:00,Saturday,Syracuse Nationals,108,Minneapolis Lakers,95,,,
+1959-12-06T00:00:00,Sunday,Cincinnati Royals,104,St. Louis Hawks,118,,,
+1959-12-06T00:00:00,Sunday,Minneapolis Lakers,104,Boston Celtics,121,,,
+1959-12-06T00:00:00,Sunday,Philadelphia Warriors,118,Detroit Pistons,116,,,
+1959-12-08T00:00:00,Tuesday,Minneapolis Lakers,89,Syracuse Nationals,93,,,"at Seattle, WA"
+1959-12-08T00:00:00,Tuesday,Cincinnati Royals,105,St. Louis Hawks,101,,,"at New York, NY"
+1959-12-08T00:00:00,Tuesday,New York Knicks,105,Boston Celtics,121,,,
+1959-12-09T00:00:00,Wednesday,Minneapolis Lakers,96,Syracuse Nationals,86,,,"at San Francisco, CA"
+1959-12-09T00:00:00,Wednesday,Cincinnati Royals,129,Detroit Pistons,119,,,"at Boston, MA"
+1959-12-09T00:00:00,Wednesday,Boston Celtics,137,Philadelphia Warriors,116,,,
+1959-12-10T00:00:00,Thursday,Philadelphia Warriors,131,Cincinnati Royals,112,,,
+1959-12-10T00:00:00,Thursday,Detroit Pistons,111,St. Louis Hawks,129,,,"at Philadelphia, PA"
+1959-12-11T00:00:00,Friday,New York Knicks,152,Syracuse Nationals,121,,,
+1959-12-11T00:00:00,Friday,Boston Celtics,122,St. Louis Hawks,99,,,
+1959-12-12T00:00:00,Saturday,Philadelphia Warriors,117,Boston Celtics,126,,,
+1959-12-12T00:00:00,Saturday,Minneapolis Lakers,97,Cincinnati Royals,107,,,
+1959-12-13T00:00:00,Sunday,St. Louis Hawks,118,Cincinnati Royals,98,,,
+1959-12-13T00:00:00,Sunday,Syracuse Nationals,150,Philadelphia Warriors,121,,,
+1959-12-13T00:00:00,Sunday,Detroit Pistons,147,New York Knicks,129,,,
+1959-12-15T00:00:00,Tuesday,New York Knicks,110,St. Louis Hawks,119,,,
+1959-12-15T00:00:00,Tuesday,Cincinnati Royals,107,Philadelphia Warriors,131,,,"at New York, NY"
+1959-12-16T00:00:00,Wednesday,Cincinnati Royals,105,Philadelphia Warriors,114,,,
+1959-12-16T00:00:00,Wednesday,Syracuse Nationals,116,New York Knicks,113,,,
+1959-12-16T00:00:00,Wednesday,Detroit Pistons,106,St. Louis Hawks,107,,,
+1959-12-17T00:00:00,Thursday,Boston Celtics,137,New York Knicks,126,,,"at Providence, RI"
+1959-12-19T00:00:00,Saturday,St. Louis Hawks,102,Philadelphia Warriors,89,,,
+1959-12-19T00:00:00,Saturday,Detroit Pistons,120,Syracuse Nationals,112,,,
+1959-12-19T00:00:00,Saturday,Cincinnati Royals,113,Minneapolis Lakers,131,,,
+1959-12-19T00:00:00,Saturday,Boston Celtics,119,New York Knicks,116,,,
+1959-12-20T00:00:00,Sunday,St. Louis Hawks,102,Detroit Pistons,86,,,
+1959-12-20T00:00:00,Sunday,Syracuse Nationals,127,Boston Celtics,132,,,
+1959-12-20T00:00:00,Sunday,New York Knicks,132,Cincinnati Royals,118,,,
+1959-12-22T00:00:00,Tuesday,Cincinnati Royals,119,New York Knicks,127,,,"at Detroit, MI"
+1959-12-22T00:00:00,Tuesday,Detroit Pistons,104,Boston Celtics,136,,,
+1959-12-25T00:00:00,Friday,Cincinnati Royals,121,Detroit Pistons,103,,,
+1959-12-25T00:00:00,Friday,Philadelphia Warriors,129,Syracuse Nationals,121,,,"at Hershey, PA"
+1959-12-25T00:00:00,Friday,St. Louis Hawks,112,Minneapolis Lakers,96,,,
+1959-12-25T00:00:00,Friday,New York Knicks,119,Boston Celtics,123,,,
+1959-12-26T00:00:00,Saturday,Syracuse Nationals,117,St. Louis Hawks,104,,,
+1959-12-26T00:00:00,Saturday,Philadelphia Warriors,116,New York Knicks,122,,,
+1959-12-26T00:00:00,Saturday,Detroit Pistons,105,Minneapolis Lakers,108,,,
+1959-12-27T00:00:00,Sunday,Minneapolis Lakers,119,Detroit Pistons,109,,,
+1959-12-27T00:00:00,Sunday,Cincinnati Royals,111,Boston Celtics,122,,,
+1959-12-28T00:00:00,Monday,Boston Celtics,107,Minneapolis Lakers,104,,,
+1959-12-28T00:00:00,Monday,St. Louis Hawks,120,Syracuse Nationals,106,,,
+1959-12-28T00:00:00,Monday,Cincinnati Royals,104,Philadelphia Warriors,109,,,"at St. Louis, MO"
+1959-12-30T00:00:00,Wednesday,St. Louis Hawks,82,Boston Celtics,96,,,
+1959-12-30T00:00:00,Wednesday,Philadelphia Warriors,122,Minneapolis Lakers,107,,,
+1959-12-30T00:00:00,Wednesday,Cincinnati Royals,127,Syracuse Nationals,131,,,
+1959-12-30T00:00:00,Wednesday,Detroit Pistons,109,New York Knicks,124,,,"at Philadelphia, PA"
+1959-12-31T00:00:00,Thursday,New York Knicks,127,Minneapolis Lakers,102,,,
+1960-01-01T00:00:00,Friday,Boston Celtics,115,Cincinnati Royals,128,,,"at Detroit, MI"
+1960-01-01T00:00:00,Friday,Detroit Pistons,119,St. Louis Hawks,107,,,
+1960-01-01T00:00:00,Friday,Minneapolis Lakers,98,Syracuse Nationals,109,,,
+1960-01-02T00:00:00,Saturday,St. Louis Hawks,114,Detroit Pistons,113,,,
+1960-01-02T00:00:00,Saturday,Philadelphia Warriors,118,Boston Celtics,117,,,
+1960-01-02T00:00:00,Saturday,Cincinnati Royals,118,New York Knicks,126,,,
+1960-01-03T00:00:00,Sunday,Syracuse Nationals,114,Boston Celtics,113,,,
+1960-01-03T00:00:00,Sunday,St. Louis Hawks,110,New York Knicks,108,,,
+1960-01-03T00:00:00,Sunday,Detroit Pistons,114,Cincinnati Royals,112,,,
+1960-01-04T00:00:00,Monday,Boston Celtics,127,Syracuse Nationals,120,,,
+1960-01-05T00:00:00,Tuesday,Minneapolis Lakers,111,Philadelphia Warriors,126,,,"at New York, NY"
+1960-01-05T00:00:00,Tuesday,New York Knicks,121,Detroit Pistons,110,,,
+1960-01-05T00:00:00,Tuesday,Boston Celtics,143,Syracuse Nationals,145,,OT,"at Providence, RI"
+1960-01-06T00:00:00,Wednesday,Cincinnati Royals,129,New York Knicks,113,,,"at Philadelphia, PA"
+1960-01-06T00:00:00,Wednesday,Philadelphia Warriors,121,St. Louis Hawks,101,,,
+1960-01-07T00:00:00,Thursday,Syracuse Nationals,132,Cincinnati Royals,114,,,
+1960-01-07T00:00:00,Thursday,Detroit Pistons,105,Philadelphia Warriors,120,,,"at Syracuse, NY"
+1960-01-08T00:00:00,Friday,Detroit Pistons,107,Syracuse Nationals,118,,,"at Rochester, NY"
+1960-01-08T00:00:00,Friday,Cincinnati Royals,112,St. Louis Hawks,102,,,
+1960-01-09T00:00:00,Saturday,Minneapolis Lakers,121,Cincinnati Royals,91,,,
+1960-01-09T00:00:00,Saturday,Detroit Pistons,103,Boston Celtics,126,,,
+1960-01-09T00:00:00,Saturday,Philadelphia Warriors,119,Syracuse Nationals,112,,,
+1960-01-10T00:00:00,Sunday,Syracuse Nationals,108,Detroit Pistons,103,,,
+1960-01-10T00:00:00,Sunday,St. Louis Hawks,121,Boston Celtics,111,,,
+1960-01-10T00:00:00,Sunday,New York Knicks,103,Philadelphia Warriors,116,,,
+1960-01-10T00:00:00,Sunday,Cincinnati Royals,106,Minneapolis Lakers,112,,,
+1960-01-12T00:00:00,Tuesday,Philadelphia Warriors,126,St. Louis Hawks,108,,,
+1960-01-12T00:00:00,Tuesday,Cincinnati Royals,123,New York Knicks,141,,,
+1960-01-12T00:00:00,Tuesday,Boston Celtics,120,Syracuse Nationals,127,,,"at Philadelphia, PA"
+1960-01-13T00:00:00,Wednesday,Detroit Pistons,114,New York Knicks,113,,,"at Fort Wayne, IN"
+1960-01-13T00:00:00,Wednesday,Boston Celtics,134,St. Louis Hawks,112,,,
+1960-01-13T00:00:00,Wednesday,Philadelphia Warriors,132,Syracuse Nationals,131,,OT,"at Boston, MA"
+1960-01-14T00:00:00,Thursday,Minneapolis Lakers,126,New York Knicks,131,,,"at Saint Paul, MN"
+1960-01-14T00:00:00,Thursday,Syracuse Nationals,119,St. Louis Hawks,112,,,
+1960-01-15T00:00:00,Friday,Cincinnati Royals,122,Minneapolis Lakers,118,,,
+1960-01-15T00:00:00,Friday,St. Louis Hawks,141,Syracuse Nationals,140,,OT,
+1960-01-15T00:00:00,Friday,Philadelphia Warriors,112,Boston Celtics,124,,,
+1960-01-16T00:00:00,Saturday,Detroit Pistons,105,Minneapolis Lakers,98,,,"at Saint Paul, MN"
+1960-01-16T00:00:00,Saturday,New York Knicks,132,Cincinnati Royals,106,,,
+1960-01-17T00:00:00,Sunday,Syracuse Nationals,129,New York Knicks,117,,,
+1960-01-17T00:00:00,Sunday,St. Louis Hawks,135,Minneapolis Lakers,119,,,
+1960-01-17T00:00:00,Sunday,Detroit Pistons,115,Cincinnati Royals,110,,,
+1960-01-17T00:00:00,Sunday,Boston Celtics,129,Philadelphia Warriors,123,,,
+1960-01-19T00:00:00,Tuesday,New York Knicks,93,Philadelphia Warriors,114,,,"at Camden, NJ"
+1960-01-20T00:00:00,Wednesday,Cincinnati Royals,108,St. Louis Hawks,119,,,
+1960-01-20T00:00:00,Wednesday,Syracuse Nationals,123,Philadelphia Warriors,129,,,
+1960-01-20T00:00:00,Wednesday,Boston Celtics,144,New York Knicks,126,,,
+1960-01-23T00:00:00,Saturday,Minneapolis Lakers,104,New York Knicks,115,,,
+1960-01-23T00:00:00,Saturday,Detroit Pistons,130,Philadelphia Warriors,110,,,
+1960-01-23T00:00:00,Saturday,St. Louis Hawks,108,Cincinnati Royals,100,,,
+1960-01-23T00:00:00,Saturday,Boston Celtics,130,Syracuse Nationals,121,,,
+1960-01-24T00:00:00,Sunday,Syracuse Nationals,110,Boston Celtics,131,,,
+1960-01-24T00:00:00,Sunday,Cincinnati Royals,95,Philadelphia Warriors,104,,,
+1960-01-24T00:00:00,Sunday,St. Louis Hawks,155,New York Knicks,129,,,
+1960-01-25T00:00:00,Monday,Detroit Pistons,117,Philadelphia Warriors,127,,,"at Bethlehem, PA"
+1960-01-26T00:00:00,Tuesday,Detroit Pistons,121,Syracuse Nationals,114,,,"at New York, NY"
+1960-01-26T00:00:00,Tuesday,New York Knicks,123,St. Louis Hawks,119,,,
+1960-01-27T00:00:00,Wednesday,New York Knicks,117,Philadelphia Warriors,129,,,"at Boston, MA"
+1960-01-27T00:00:00,Wednesday,Detroit Pistons,108,Syracuse Nationals,144,,,
+1960-01-27T00:00:00,Wednesday,Cincinnati Royals,112,Minneapolis Lakers,116,,,"at Detroit, MI"
+1960-01-27T00:00:00,Wednesday,Boston Celtics,127,St. Louis Hawks,114,,,
+1960-01-29T00:00:00,Friday,Cincinnati Royals,113,New York Knicks,128,,,"at Philadelphia, PA"
+1960-01-29T00:00:00,Friday,Philadelphia Warriors,124,Boston Celtics,116,,,
+1960-01-29T00:00:00,Friday,Minneapolis Lakers,112,Syracuse Nationals,119,,,
+1960-01-29T00:00:00,Friday,St. Louis Hawks,130,Detroit Pistons,125,,OT,
+1960-01-30T00:00:00,Saturday,Boston Celtics,129,Cincinnati Royals,107,,,"at Providence, RI"
+1960-01-30T00:00:00,Saturday,Detroit Pistons,117,St. Louis Hawks,107,,,
+1960-01-30T00:00:00,Saturday,New York Knicks,115,Philadelphia Warriors,108,,,
+1960-01-31T00:00:00,Sunday,Boston Celtics,146,Detroit Pistons,128,,,
+1960-01-31T00:00:00,Sunday,Minneapolis Lakers,104,Philadelphia Warriors,114,,,"at San Francisco, CA"
+1960-01-31T00:00:00,Sunday,St. Louis Hawks,117,Syracuse Nationals,110,,,
+1960-02-01T00:00:00,Monday,Minneapolis Lakers,96,Philadelphia Warriors,103,,,"at Los Angeles, CA"
+1960-02-02T00:00:00,Tuesday,Philadelphia Warriors,109,Cincinnati Royals,107,,,
+1960-02-02T00:00:00,Tuesday,New York Knicks,102,Syracuse Nationals,119,,,
+1960-02-02T00:00:00,Tuesday,Boston Celtics,113,St. Louis Hawks,114,,,"at New York, NY"
+1960-02-03T00:00:00,Wednesday,Boston Celtics,128,Minneapolis Lakers,108,,,
+1960-02-03T00:00:00,Wednesday,Detroit Pistons,117,Cincinnati Royals,105,,,
+1960-02-03T00:00:00,Wednesday,New York Knicks,115,St. Louis Hawks,125,,,"at Boston, MA"
+1960-02-04T00:00:00,Thursday,Cincinnati Royals,102,Detroit Pistons,121,,,
+1960-02-04T00:00:00,Thursday,Syracuse Nationals,137,Philadelphia Warriors,110,,,
+1960-02-05T00:00:00,Friday,Minneapolis Lakers,96,St. Louis Hawks,114,,,
+1960-02-05T00:00:00,Friday,Boston Celtics,124,Syracuse Nationals,100,,,
+1960-02-06T00:00:00,Saturday,Philadelphia Warriors,129,Syracuse Nationals,126,,,
+1960-02-06T00:00:00,Saturday,New York Knicks,117,Boston Celtics,143,,,
+1960-02-06T00:00:00,Saturday,Detroit Pistons,116,Minneapolis Lakers,101,,,
+1960-02-07T00:00:00,Sunday,St. Louis Hawks,130,Philadelphia Warriors,108,,,
+1960-02-07T00:00:00,Sunday,Minneapolis Lakers,104,Detroit Pistons,102,,,
+1960-02-07T00:00:00,Sunday,Syracuse Nationals,135,Cincinnati Royals,112,,,
+1960-02-07T00:00:00,Sunday,Boston Celtics,135,New York Knicks,142,,,
+1960-02-09T00:00:00,Tuesday,Cincinnati Royals,111,Syracuse Nationals,117,,,"at Detroit, MI"
+1960-02-09T00:00:00,Tuesday,St. Louis Hawks,114,New York Knicks,104,,,
+1960-02-09T00:00:00,Tuesday,Detroit Pistons,122,Philadelphia Warriors,113,,,
+1960-02-09T00:00:00,Tuesday,Boston Celtics,129,Minneapolis Lakers,90,,,"at St. Louis, MO"
+1960-02-10T00:00:00,Wednesday,Cincinnati Royals,110,St. Louis Hawks,120,,,
+1960-02-10T00:00:00,Wednesday,Boston Celtics,153,Detroit Pistons,121,,,"at Providence, RI"
+1960-02-10T00:00:00,Wednesday,Minneapolis Lakers,109,Syracuse Nationals,110,,,"at New York, NY"
+1960-02-10T00:00:00,Wednesday,New York Knicks,125,Philadelphia Warriors,117,,,
+1960-02-11T00:00:00,Thursday,Syracuse Nationals,116,New York Knicks,109,,,
+1960-02-11T00:00:00,Thursday,Philadelphia Warriors,139,St. Louis Hawks,120,,,
+1960-02-11T00:00:00,Thursday,Minneapolis Lakers,108,Cincinnati Royals,111,,,
+1960-02-12T00:00:00,Friday,Cincinnati Royals,133,Detroit Pistons,101,,,"at Dayton, OH"
+1960-02-13T00:00:00,Saturday,Boston Celtics,122,Philadelphia Warriors,120,,,
+1960-02-13T00:00:00,Saturday,Detroit Pistons,117,Minneapolis Lakers,123,,OT,
+1960-02-13T00:00:00,Saturday,New York Knicks,122,St. Louis Hawks,104,,,
+1960-02-14T00:00:00,Sunday,Philadelphia Warriors,115,Boston Celtics,125,,,
+1960-02-14T00:00:00,Sunday,St. Louis Hawks,107,Cincinnati Royals,105,,,
+1960-02-14T00:00:00,Sunday,Syracuse Nationals,121,Minneapolis Lakers,119,,,
+1960-02-16T00:00:00,Tuesday,New York Knicks,125,Syracuse Nationals,116,,,
+1960-02-16T00:00:00,Tuesday,Boston Celtics,130,Minneapolis Lakers,122,,,"at New York, NY"
+1960-02-16T00:00:00,Tuesday,Cincinnati Royals,112,Philadelphia Warriors,117,,,
+1960-02-16T00:00:00,Tuesday,Detroit Pistons,104,St. Louis Hawks,111,,,
+1960-02-17T00:00:00,Wednesday,Philadelphia Warriors,123,Syracuse Nationals,116,,,
+1960-02-17T00:00:00,Wednesday,Minneapolis Lakers,127,St. Louis Hawks,131,,,"at Philadelphia, PA"
+1960-02-18T00:00:00,Thursday,Syracuse Nationals,136,Philadelphia Warriors,122,,,
+1960-02-18T00:00:00,Thursday,Boston Celtics,109,New York Knicks,104,,,"at Syracuse, NY"
+1960-02-19T00:00:00,Friday,Detroit Pistons,116,Boston Celtics,136,,,
+1960-02-19T00:00:00,Friday,Minneapolis Lakers,111,St. Louis Hawks,101,,,
+1960-02-20T00:00:00,Saturday,New York Knicks,121,Syracuse Nationals,126,,,"at Philadelphia, PA"
+1960-02-20T00:00:00,Saturday,Cincinnati Royals,110,Detroit Pistons,107,,,
+1960-02-20T00:00:00,Saturday,Philadelphia Warriors,122,Minneapolis Lakers,106,,,
+1960-02-20T00:00:00,Saturday,St. Louis Hawks,121,Boston Celtics,105,,,
+1960-02-21T00:00:00,Sunday,Syracuse Nationals,122,Detroit Pistons,120,,,
+1960-02-21T00:00:00,Sunday,New York Knicks,122,Philadelphia Warriors,129,,,
+1960-02-21T00:00:00,Sunday,Minneapolis Lakers,112,St. Louis Hawks,98,,,"at Los Angeles, CA"
+1960-02-21T00:00:00,Sunday,Cincinnati Royals,108,Boston Celtics,115,,,
+1960-02-22T00:00:00,Monday,Minneapolis Lakers,103,St. Louis Hawks,113,,,"at Los Angeles, CA"
+1960-02-23T00:00:00,Tuesday,Cincinnati Royals,135,Syracuse Nationals,133,,,
+1960-02-23T00:00:00,Tuesday,New York Knicks,112,Minneapolis Lakers,117,,,
+1960-02-23T00:00:00,Tuesday,Boston Celtics,108,Philadelphia Warriors,126,,,"at New York, NY"
+1960-02-24T00:00:00,Wednesday,Boston Celtics,131,Minneapolis Lakers,110,,,"at College Park, MD"
+1960-02-24T00:00:00,Wednesday,Cincinnati Royals,124,St. Louis Hawks,122,,,"at Detroit, MI"
+1960-02-24T00:00:00,Wednesday,Detroit Pistons,128,Syracuse Nationals,110,,,
+1960-02-25T00:00:00,Thursday,Cincinnati Royals,95,Minneapolis Lakers,105,,,"at Providence, RI"
+1960-02-25T00:00:00,Thursday,Philadelphia Warriors,131,New York Knicks,121,,,
+1960-02-25T00:00:00,Thursday,Syracuse Nationals,110,St. Louis Hawks,105,,,
+1960-02-25T00:00:00,Thursday,Boston Celtics,121,Detroit Pistons,107,,,"at Providence, RI"
+1960-02-26T00:00:00,Friday,Boston Celtics,128,Minneapolis Lakers,111,,,
+1960-02-27T00:00:00,Saturday,Syracuse Nationals,114,New York Knicks,111,,,
+1960-02-27T00:00:00,Saturday,St. Louis Hawks,114,Detroit Pistons,116,,,
+1960-02-27T00:00:00,Saturday,Minneapolis Lakers,109,Philadelphia Warriors,91,,,
+1960-02-28T00:00:00,Sunday,Detroit Pistons,111,Philadelphia Warriors,113,,,
+1960-02-28T00:00:00,Sunday,St. Louis Hawks,122,Cincinnati Royals,105,,,
+1960-02-28T00:00:00,Sunday,New York Knicks,125,Boston Celtics,129,,,
+1960-03-01T00:00:00,Tuesday,Cincinnati Royals,106,Detroit Pistons,108,,,"at St. Louis, MO"
+1960-03-01T00:00:00,Tuesday,St. Louis Hawks,109,Minneapolis Lakers,101,,,
+1960-03-01T00:00:00,Tuesday,New York Knicks,121,Syracuse Nationals,124,,,
+1960-03-02T00:00:00,Wednesday,Boston Celtics,133,Philadelphia Warriors,119,,,
+1960-03-02T00:00:00,Wednesday,Detroit Pistons,116,St. Louis Hawks,100,,,"at Detroit, MI (University of Detroit Fieldhouse)"
+1960-03-02T00:00:00,Wednesday,Minneapolis Lakers,123,New York Knicks,113,,,"at Boston, MA"
+1960-03-03T00:00:00,Thursday,Cincinnati Royals,114,Minneapolis Lakers,117,,,"at Philadelphia, PA"
+1960-03-03T00:00:00,Thursday,Philadelphia Warriors,110,Detroit Pistons,101,,,
+1960-03-03T00:00:00,Thursday,Syracuse Nationals,149,Boston Celtics,108,,,
+1960-03-04T00:00:00,Friday,New York Knicks,134,Philadelphia Warriors,136,,OT,"at Hershey, PA"
+1960-03-05T00:00:00,Saturday,Syracuse Nationals,132,New York Knicks,115,,,
+1960-03-05T00:00:00,Saturday,Minneapolis Lakers,106,St. Louis Hawks,107,,OT,
+1960-03-06T00:00:00,Sunday,St. Louis Hawks,128,Philadelphia Warriors,109,,,
+1960-03-06T00:00:00,Sunday,New York Knicks,120,Detroit Pistons,112,,,
+1960-03-06T00:00:00,Sunday,Boston Celtics,126,Syracuse Nationals,117,,,
+1960-03-06T00:00:00,Sunday,Minneapolis Lakers,114,Cincinnati Royals,105,,,
+1960-03-08T00:00:00,Tuesday,St. Louis Hawks,122,Detroit Pistons,101,,,
+1960-03-09T00:00:00,Wednesday,Detroit Pistons,117,Minneapolis Lakers,116,,,
+1960-03-09T00:00:00,Wednesday,Cincinnati Royals,116,St. Louis Hawks,123,,,
+1960-03-09T00:00:00,Wednesday,Boston Celtics,148,New York Knicks,128,,,
+1960-03-09T00:00:00,Wednesday,Syracuse Nationals,137,Philadelphia Warriors,126,,,
+1960-03-10T00:00:00,Thursday,Minneapolis Lakers,133,New York Knicks,108,,,
+1960-04-02T00:00:00,Saturday,St. Louis Hawks,86,Boston Celtics,102,10612.0,,
+1960-04-03T00:00:00,Sunday,St. Louis Hawks,106,Boston Celtics,96,10612.0,,
+1960-04-05T00:00:00,Tuesday,Boston Celtics,127,St. Louis Hawks,102,10612.0,,
+1960-04-07T00:00:00,Thursday,St. Louis Hawks,105,Boston Celtics,102,10612.0,,
+1960-04-09T00:00:00,Saturday,Boston Celtics,122,St. Louis Hawks,103,10612.0,,
