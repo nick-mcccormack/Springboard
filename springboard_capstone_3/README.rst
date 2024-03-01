@@ -16,7 +16,7 @@ Springboard: Capstone 3
 
 
 
-Second capstone project for the Springboard bootcamp
+Third capstone project for the Springboard bootcamp
 
 
 * Free software: MIT license
